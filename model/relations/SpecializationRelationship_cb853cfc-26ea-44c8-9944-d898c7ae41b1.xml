@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL"
+    id="cb853cfc-26ea-44c8-9944-d898c7ae41b1">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_20639341-a2a5-40fc-bbf3-afd138e2c409.xml#20639341-a2a5-40fc-bbf3-afd138e2c409"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_16ff35d7-2d20-47b6-8f6e-97d6d84103b5.xml#16ff35d7-2d20-47b6-8f6e-97d6d84103b5"/>
+</archimate:SpecializationRelationship>
