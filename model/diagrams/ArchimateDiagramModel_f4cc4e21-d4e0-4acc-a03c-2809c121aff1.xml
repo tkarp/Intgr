@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="f4cc4e21-d4e0-4acc-a03c-2809c121aff1"/>
+    id="f4cc4e21-d4e0-4acc-a03c-2809c121aff1">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="48390b61-9ca2-441f-9be7-f39d73749fef"
+      textAlignment="1"
+      content="Pierwszy commit TKa">
+    <bounds
+        x="264"
+        y="144"
+        width="205"
+        height="85"/>
+  </children>
+</archimate:ArchimateDiagramModel>
