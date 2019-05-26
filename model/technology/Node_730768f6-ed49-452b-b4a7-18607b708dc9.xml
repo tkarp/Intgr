@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sorter"
-    id="730768f6-ed49-452b-b4a7-18607b708dc9"/>
+    id="730768f6-ed49-452b-b4a7-18607b708dc9"
+    documentation="Urządzenie do sortowania"/>

@@ -1,4 +1,5 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APM-NEXT"
-    id="ec0b9fa2-8625-44d3-9c81-37ee308f512b"/>
+    id="ec0b9fa2-8625-44d3-9c81-37ee308f512b"
+    documentation="Automatic Parcel Machine next generation (based on Controller not on PC)"/>

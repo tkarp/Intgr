@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SEH"
-    id="2b3cbba2-9f93-4389-b4cb-c08bf727f422"/>
+    id="2b3cbba2-9f93-4389-b4cb-c08bf727f422"
+    documentation="Tworzenie treści maili i sms-ów "/>

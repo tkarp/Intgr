@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kartel Terminal"
-    id="4f6b18ba-f94f-43f7-a7f4-977efdf73e15"/>
+    id="4f6b18ba-f94f-43f7-a7f4-977efdf73e15"
+    documentation="UI do zarządzania systemem Kar-Tel?"/>

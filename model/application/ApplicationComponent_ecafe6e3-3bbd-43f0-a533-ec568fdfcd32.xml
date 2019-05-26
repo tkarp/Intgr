@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manual Sort"
-    id="ecafe6e3-3bbd-43f0-a533-ec568fdfcd32"/>
+    id="ecafe6e3-3bbd-43f0-a533-ec568fdfcd32"
+    documentation="obsługa manulanego sortowania"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mediator"
-    id="63ac3c26-df82-4e42-9c2c-1a163363645f"/>
+    id="63ac3c26-df82-4e42-9c2c-1a163363645f"
+    documentation="odpowiedzialny za integrację komunikacji miedzy systemem Kartel-a a systemami  SZOP i z Trucker"/>

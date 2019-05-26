@@ -1,4 +1,5 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APM"
-    id="b46f96b6-7309-44be-b10e-216057fe68e1"/>
+    id="b46f96b6-7309-44be-b10e-216057fe68e1"
+    documentation="Automatic Parcel Machine &#xD;&#xA;Paczkomat"/>
