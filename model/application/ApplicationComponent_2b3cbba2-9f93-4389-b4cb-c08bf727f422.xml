@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SEH"
     id="2b3cbba2-9f93-4389-b4cb-c08bf727f422"
-    documentation="Tworzenie treści maili i sms-ów "/>
+    documentation="Tworzenie treści maili i sms-ów &#xD;&#xA;Realizuje logikę renderowania komunikatu na podstawie okreslonych reguł. &#xD;&#xA;&#xD;&#xA;PHP i przepusywany&#xD;&#xA;"/>

@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MMA"
+    name="MMA (Mobile Mgmt App)"
     id="9fefc1b8-1bfb-40fc-af92-8d426502fa25"
-    documentation="app. + interface&#xD;&#xA;ma REST API&#xD;&#xA;&#xD;&#xA;Mobile Mgmt App&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Aplikacja centralna pośrednicząca w komunikacji między   ICRA a paczkomatem.&#xD;&#xA;Mobile Mgmt App&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
