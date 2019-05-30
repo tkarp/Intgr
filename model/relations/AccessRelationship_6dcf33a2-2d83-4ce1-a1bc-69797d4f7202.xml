@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connector"
+    id="6dcf33a2-2d83-4ce1-a1bc-69797d4f7202"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_5a927f25-f099-4248-974f-e732f1e2cc5d.xml#5a927f25-f099-4248-974f-e732f1e2cc5d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_16073df1-0fab-48b4-9ccf-e43206654725.xml#16073df1-0fab-48b4-9ccf-e43206654725"/>
+</archimate:AccessRelationship>

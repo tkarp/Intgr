@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pay-By-Link"
+    id="75b11cb1-0628-4e36-b495-42d52bad661b"
+    documentation="realizacja płatności z predefiniowaną kwotą. obsługa wpłat prepaid"/>

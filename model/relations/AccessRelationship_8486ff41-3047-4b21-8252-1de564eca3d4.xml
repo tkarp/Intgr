@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL"
+    id="8486ff41-3047-4b21-8252-1de564eca3d4"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_84fe759f-f39f-45e3-b6da-9ab8c6063f15.xml#84fe759f-f39f-45e3-b6da-9ab8c6063f15"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_20639341-a2a5-40fc-bbf3-afd138e2c409.xml#20639341-a2a5-40fc-bbf3-afd138e2c409"/>
+</archimate:AccessRelationship>

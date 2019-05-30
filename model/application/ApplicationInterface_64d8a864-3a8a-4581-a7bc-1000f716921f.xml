@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eMapa"
+    id="64d8a864-3a8a-4581-a7bc-1000f716921f"
+    documentation="Komunikaca z emapą, routing kurierów"/>

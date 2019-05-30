@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="X-FILES"
+    id="61ad3b89-4335-48d8-bd26-66abf1808cdd"
+    documentation="Service Mix w Javie&#xD;&#xA;Batchowy import (export?) do SZOP-a&#xD;&#xA;CSV +XML&#xD;&#xA;SFTP.&#xD;&#xA;Jest obsługa błedów, biznesowa&#xD;&#xA;&#xD;&#xA;Każdy klient dostaje swoje pliki.&#xD;&#xA;&#xD;&#xA;1. Raport procesowania.&#xD;&#xA;dla csv.&#xD;&#xA;dodaje ostatnią klumne. &#xD;&#xA;2. Co godzine statusy"/>
