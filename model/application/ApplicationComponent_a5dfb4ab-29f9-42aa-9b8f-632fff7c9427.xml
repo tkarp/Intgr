@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEH"
+    id="a5dfb4ab-29f9-42aa-9b8f-632fff7c9427"
+    documentation="Przegotowuje treści notyfikacji mailowych i sms-owych&#xD;&#xA;Zarządzanie  Regułami wyboru szablony i logiką wysyłania/niewysyłania powiadomień.&#xD;&#xA;źródło danych: GPSE na Kafce,&#xD;&#xA;technivzne problemy PHP z konsumpcja kafki.&#xD;&#xA;PHP i przepisywany&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="PHP"/>
+</archimate:ApplicationComponent>

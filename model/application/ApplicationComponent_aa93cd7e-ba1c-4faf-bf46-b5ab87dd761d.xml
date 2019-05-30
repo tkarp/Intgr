@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APM"
+    id="aa93cd7e-ba1c-4faf-bf46-b5ab87dd761d"
+    documentation="Paczkomat&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Integer"/>
+</archimate:ApplicationComponent>

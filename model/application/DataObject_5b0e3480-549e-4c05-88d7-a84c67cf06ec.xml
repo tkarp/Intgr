@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SZOP DB Replica"
+    id="5b0e3480-549e-4c05-88d7-a84c67cf06ec"
+    documentation="Replika  bazy danych SZOP na potrzeby analiz i raportów">
+  <properties
+      key="Technology"
+      value="Postgresql"/>
+</archimate:DataObject>

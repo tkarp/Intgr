@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manager Paczek 3.0"
+    id="5571ad37-3f37-46f2-9da3-7426556cd801"
+    documentation="Webowe GUI do zarządzania (przegląd, tworzenie paczek, opłacanie, drukowanie, itd) paczkami, profilem użytkownika, kontem przedpłatowym.&#xD;&#xA;doładowanie konta,&#xD;&#xA;zamówic zlecenia podjazdu&#xD;&#xA;&#xD;&#xA;Mozna powiązać konto z alegro i dzięki dedykowanej integracji mozna zaimportowac sprzedane yowary i autoimatycznie utworzyc brandowane packi.&#xD;&#xA;&#xD;&#xA;"/>

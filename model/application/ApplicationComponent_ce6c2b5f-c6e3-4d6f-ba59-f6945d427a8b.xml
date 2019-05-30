@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API 2.0"
+    id="ce6c2b5f-c6e3-4d6f-ba59-f6945d427a8b"
+    documentation="Stare API dostępowe do SZOP-a (wciąz używane) xml/http&#xD;&#xA;Zarządzanie paczkami i ich monitorowanie.">
+  <properties
+      key="Technology"
+      value="PHP"/>
+</archimate:ApplicationComponent>

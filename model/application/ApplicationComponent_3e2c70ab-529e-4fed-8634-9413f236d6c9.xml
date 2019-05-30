@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PLCI"
+    id="3e2c70ab-529e-4fed-8634-9413f236d6c9"
+    documentation="Parcel Locker Capacity Indicator&#xD;&#xA;Zasilany strumieniem ddebezium /kafka z bazy SZOP-a&#xD;&#xA;Ile skrytek w jakich rozmiarach, w których sa paczki w jakich gabarytach, skrykti niedostępne..&#xD;&#xA;Udostępnia stan skrytek paczkomatu, na rzecz Konsoli administracyjnej i na rzecz Truckera.&#xD;&#xA;Zawiera dane historyczne&#xD;&#xA;baza danych nosql (Elastic Search)&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Java"/>
+</archimate:ApplicationComponent>

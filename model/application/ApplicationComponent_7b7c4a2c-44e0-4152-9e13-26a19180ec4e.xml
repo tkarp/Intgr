@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediator"
+    id="7b7c4a2c-44e0-4152-9e13-26a19180ec4e"
+    documentation="Komunikacja miedzy systemem Kartel-a (obsługującym POP-y) a systemami  SZOP i Trucker&#xD;&#xA;Przyjęcie paczek, Weyfikacja kodu odbiory, wydanie paczki.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Java"/>
+</archimate:ApplicationComponent>

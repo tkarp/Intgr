@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SZOP Bis Proxy"
+    id="d0e6360d-9137-442d-ac4b-b2f63357c13a"
+    documentation="szop bis proxy&#xD;&#xA;&#xD;&#xA;comp. na serv. app.&#xD;&#xA;zapewnia translacje miedzy szopem a nextem (protokoł ARI)&#xD;&#xA;&#xD;&#xA;W planach implementacja restów na Next-e i usunięcie zbdnego translatora.&#xD;&#xA;&#xD;&#xA;bo tma jest protokol ARI, autorski&#xD;&#xA;Transluje an soaap&#xD;&#xA;&#xD;&#xA;SOAPy, wspolne dla zwyklego i nexta&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Java"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COD Clearance BRE"
+    id="67945d85-3190-4eb1-b765-f477ad9a8698"
+    documentation="Generuje podpisy komunikatów transferów do BRE.&#xD;&#xA;Transfer do nadawców  pobranych przez Integer platności pobraniowych realizowanych przez SZOP-a. Docelwo wyodrębnine z SZOP-a.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Java"/>
+</archimate:ApplicationComponent>

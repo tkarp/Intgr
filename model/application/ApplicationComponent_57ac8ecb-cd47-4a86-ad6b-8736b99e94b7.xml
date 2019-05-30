@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BLIK"
+    id="57ac8ecb-cd47-4a86-ad6b-8736b99e94b7"
+    documentation="COD payment realization in the APM with BLIK. &#xD;&#xA;Płatność pobraniowa COD blikiem. Po zrealizowaniu płatnościinformacja do SZOP-a o jest zakończeniu.">
+  <properties
+      key="Technology"
+      value="Java"/>
+</archimate:ApplicationComponent>

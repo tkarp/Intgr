@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API 4.0"
+    id="2943e14e-57d4-4f13-8f98-0d5b991b8d54"
+    documentation="Pośrednia wersja api dostępowego &#xD;&#xA;Zarządzanie paczkami i ich monitorowanie.&#xD;&#xA;Do wygaszenia.&#xD;&#xA;obsługuje funkcjonalnośc allegro kod zwrotu&#xD;&#xA;Allegro może samo wygenerowac zlecenie zwrotu.&#xD;&#xA;Na llegro postuluję zwrot&#xD;&#xA;Allegro przesyła kod, który umożłiwia otwarcie i nadanie paczki w paczkomacie bez manifestu.">
+  <properties
+      key="Technology"
+      value="RR"/>
+</archimate:ApplicationComponent>
