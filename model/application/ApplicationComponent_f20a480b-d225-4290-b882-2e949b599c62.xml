@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PLCI  (Parcel Locker Capacity Indicator)"
-    id="f20a480b-d225-4290-b882-2e949b599c62"
-    documentation="Parcel Locker Capacity Indicator&#xD;&#xA;&#xD;&#xA;Udostępnia stan paczkomatu,&#xD;&#xA;skryptka zepsluta, brudna zajeta wolna, &#xD;&#xA;&#xD;&#xA;na potrzeby przekiewaina przesylki do innego paczkoamtu&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;REST,&#xD;&#xA;Elatic."/>

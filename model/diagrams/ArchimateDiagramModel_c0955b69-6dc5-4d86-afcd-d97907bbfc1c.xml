@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ekosystem Aplikacji Operacyjnych SZOP"
+    name="SZOP Operating Applications - horizontal layouts"
     id="c0955b69-6dc5-4d86-afcd-d97907bbfc1c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -44,7 +44,7 @@
     </sourceConnections>
     <bounds
         x="528"
-        y="420"
+        y="432"
         width="120"
         height="55"/>
     <archimateElement

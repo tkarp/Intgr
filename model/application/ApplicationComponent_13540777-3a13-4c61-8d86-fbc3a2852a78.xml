@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GPSE (Genric Parcel status event)  ServicveMix"
-    id="13540777-3a13-4c61-8d86-fbc3a2852a78"
-    documentation="Komunikacja między SZOP a GPSE http/rest. Ale dalej GPSE publikuje strumień Kafki&#xD;&#xA;&#xD;&#xA;"/>

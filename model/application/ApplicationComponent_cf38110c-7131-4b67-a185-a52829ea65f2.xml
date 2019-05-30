@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SZOP Biz Proxy"
-    id="cf38110c-7131-4b67-a185-a52829ea65f2"
-    documentation="szop biz proxy&#xD;&#xA;&#xD;&#xA;comp. na serv. app.&#xD;&#xA;zapewnia translacje miedzy szopem a nextem&#xD;&#xA;&#xD;&#xA;bo tma jest protokol ARI, autorski&#xD;&#xA;Transluje an soaap&#xD;&#xA;&#xD;&#xA;SOAPy, wspolne dla zwyklego i nexta&#xD;&#xA;&#xD;&#xA;"/>
