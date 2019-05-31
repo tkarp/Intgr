@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parcel Track &amp; Trace Records"
-    id="e9466328-8ef7-4505-a446-8629623e6917"/>
+    id="e9466328-8ef7-4505-a446-8629623e6917"
+    documentation="Dane do usługi Track &amp; Trace"/>
