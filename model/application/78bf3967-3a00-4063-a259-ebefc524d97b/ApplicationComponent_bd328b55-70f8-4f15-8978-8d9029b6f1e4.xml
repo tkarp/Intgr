@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APM Next"
     id="bd328b55-70f8-4f15-8978-8d9029b6f1e4"
-    documentation="Automatic Parcel Machine based on the microcontroler&#xD;&#xA;Protokół binarny ARI.&#xD;&#xA;Brak wysyłania logów technicznych.">
+    documentation="Automatic Parcel Machine based on the microcontroler&#xD;&#xA;Oryginalnie protokół dostepowy był binarny ARI. Planowane jest zastępienie go wspólnym protokołem do zarzadzania APM-ami. &#xD;&#xA;Nie wysyła regulranie logów technicznych. W razie potrzeby muszą być one na zaciągane ręcznie.">
   <properties
       key="Technology"
       value="Integer"/>

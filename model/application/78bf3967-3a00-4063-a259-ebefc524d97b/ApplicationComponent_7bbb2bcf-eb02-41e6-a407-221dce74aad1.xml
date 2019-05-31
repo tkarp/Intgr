@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SZOP core"
+    name="SZOP Core"
     id="7bbb2bcf-eb02-41e6-a407-221dce74aad1"
-    documentation="System Zintegrowanej Obsługi Paczkomatów.&#xD;&#xA;Zarzadzanie paczkomatami (ładpwanie i rozładowanie paczek), aktualizowanie oprogramowania, monitorowanie, notyfikacje. przetwarzanie paczek&#xD;&#xA;Prerejstrowanie kont kurierów&#xD;&#xA;zarzadzanie kontem prepaidowym, profilem klienta, pczkami ich stanami.&#xD;&#xA;&#xD;&#xA;ze względu na słaby gsm konieczne było prerejestrowanie paczek w paczkomacie.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;paczki usuwane z bazy po 4 miesiącach&#xD;&#xA;Zarządza klientami  prepaid (doładowanie, opłacanie paczek, raporty), prezentuje konta postpaid (profil, tożsamość, itp.)&#xD;&#xA;Zarządzanie paczkami (tworzenie, wysyłanie, monitorowanie, &#xD;&#xA;Klienci Postpaid też moze uzywać paczkoamtów czyli jest w SZOP-e.&#xD;&#xA;&#xD;&#xA;Konta prepaid są tylko w SZOP-e&#xD;&#xA;Konta Postpaid są i w SZOP-e i w Truckerze. Synchronizowane są z Truckera do SZOP-a.&#xD;&#xA;Jeśli klient był w prepaidzie i załozył konto postpaid to musi ono być ręcznie powiązane w Truckerze z kontem prepiad istniejące w SZOP-e. &#xD;&#xA;W SZOPie ,możliwe sa BoX to Adres, Adres to Adres.&#xD;&#xA;Konta Postpaidowe nie mogą być modyfikowane w SZOP-e.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Jeśli jestes w SZOP-e i ">
+    documentation="System Zintegrowanej Obsługi Paczkomatów.&#xD;&#xA;Zarządzanie operacjami na paczkach w paczkomatach, zarządzania paczkomatami, zarządzanie Klientami, Billing&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java/Postgresql"/>

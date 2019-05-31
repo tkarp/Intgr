@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ICRA "
     id="b2a2c6f7-bd53-497d-88d7-12ba4593f6b0"
-    documentation="Inpost Courier Remoute App&#xD;&#xA;mobilna aplikacja na androida, do obslugi paczkomatu bez uzycia centralki przez kuriera&#xD;&#xA;loguje się odbiera paczki, ładuje  paczki. Werfikacja niedostepnych skrytek. &#xD;&#xA;">
+    documentation="Inpost Courier Remoute App&#xD;&#xA;Mobilna aplikacja na androida dla kuriera, do obslugi paczkomatu bez użycia terminala na paczkomacie.&#xD;&#xA;Uwierzytelnienie Kuriera. Ładowanie i rozładowywanie  paczki. Werfikacja niedostepnych skrytek. &#xD;&#xA;">
   <properties
       key="Technology"
       value="Android Java"/>
