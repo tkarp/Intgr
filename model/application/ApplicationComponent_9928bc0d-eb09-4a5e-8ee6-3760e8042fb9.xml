@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instant Return (copy)"
+    id="9928bc0d-eb09-4a5e-8ee6-3760e8042fb9"
+    documentation="Realizacja szybkich zwrotów.&#xD;&#xA;Odbiorca  deklaruje chęć zwrotu na szybkiezwroty.pl. Informacja idzie do dostawcy towaru. Dostawca zatwierdza. Inpost generuje kod, który umożliwia nadanie w paczkomacie przesyłki bez konieczności definiowania standardowej paczki.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="RR"/>
+</archimate:ApplicationComponent>

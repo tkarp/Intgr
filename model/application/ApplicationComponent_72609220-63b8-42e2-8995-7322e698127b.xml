@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EAM (copy)"
+    id="72609220-63b8-42e2-8995-7322e698127b"
+    documentation="Enterprise Asset Management&#xD;&#xA;Zarzadzanie majątkiem jakim są paczkomaty.&#xD;&#xA;Przechowywanie dokumentów związanych z APM-mi i jego częściami, jego serwisowaniem, zawieszane reklamy&#xD;&#xA;Obsługuje procesy biznesowe związane zakupem i utrzymaniem paczkomatów &#xD;&#xA;Oracle/PHP/Angular&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Angular/PHP/Oracle."/>
+</archimate:ApplicationComponent>
