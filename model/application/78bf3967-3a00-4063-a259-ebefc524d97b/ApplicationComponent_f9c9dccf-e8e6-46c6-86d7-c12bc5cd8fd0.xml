@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SHIPX"
     id="f9c9dccf-e8e6-46c6-86d7-c12bc5cd8fd0"
-    documentation="Integracja danych z SZOP-a i Trucker-a&#xD;&#xA;własna baza danych postgresql, Elastic Search.&#xD;&#xA;Konta klientów, do celów autentykacji. Spięte adresem maili z kontem SZOP-e w Truckerze.&#xD;&#xA;Celem jest jedno zintegrowane api do wysłania paczek i kurierki.&#xD;&#xA;Aktualnie problem wszystkie paczki i wszystkie zmiany sa synchronizowane do SHIPX-a i jest źródłem danych do trackingu.&#xD;&#xA;Miał absorbowac awarię i przestoje SZOP-a oraz Trucker-a.&#xD;&#xA;Miał oferować moduł ofertowy.&#xD;&#xA;wszystkie paczki&#xD;&#xA;tworzenie i zarządzanie  paczkami">
+    documentation="Realizacja zintegrowanego (obejmującego usługi kurierskie oraz paczkomatowe) api dostępowego &#xD;&#xA;Zarządza kontami  klientów, do celów autentykacji. (Spięte adresem maili z kontem SZOP-e w Truckerze).&#xD;&#xA;Aktualnie  wszystkie paczki i wszystkie zmiany są synchronizowane do SHIPX-a i który źródłem danych do trackingu.&#xD;&#xA;Aktualnie jest źródłem danych do usługi Track and Trace.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
-      value="Ruby"/>
+      value="RR/PostgreSQL"/>
 </archimate:ApplicationComponent>

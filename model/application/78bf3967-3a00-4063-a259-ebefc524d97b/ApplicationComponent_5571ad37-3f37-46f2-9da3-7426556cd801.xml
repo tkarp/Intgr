@@ -1,5 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Parcel manager 3.0"
+    name="Parcel Manager 3.0"
     id="5571ad37-3f37-46f2-9da3-7426556cd801"
-    documentation="Webowe GUI do zarządzania (przegląd, tworzenie paczek, opłacanie, drukowanie, itd) paczkami, profilem użytkownika, kontem przedpłatowym.&#xD;&#xA;doładowanie konta,&#xD;&#xA;zamówic zlecenia podjazdu&#xD;&#xA;&#xD;&#xA;Mozna powiązać konto z alegro i dzięki dedykowanej integracji mozna zaimportowac sprzedane yowary i autoimatycznie utworzyc brandowane packi.&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Webowe GUI do zarządzania paczkami (przegląd, tworzenie paczek, opłacanie, drukowanie, itd), profilem użytkownika, kontem przedpłatowym.&#xD;&#xA;Można powiązać konto z alegro i dzięki dedykowanej integracji można zaimportowac sprzedane towary i automatycznie utworzyć brandowane paczki.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Angular/PHP"/>
+</archimate:ApplicationComponent>

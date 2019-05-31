@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="X-FILES"
     id="d256be21-8e9b-42cb-a09e-7f5295cd90c2"
-    documentation="Batchowy (plikowy) import zleceń export stanów do SZOP-a&#xD;&#xA;klienci otrzymują indywidualne konta sftp zamapowane na konta klientów SZOP- lub Trucker-a.&#xD;&#xA;">
+    documentation="Batchowy (plikowy) import zleceń oraz export stanów stanów paczek &#xD;&#xA;Klienci muszą mieć indywidualne konta sftp zamapowane na konta klientów SZOP- lub Trucker-a.&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java"/>
