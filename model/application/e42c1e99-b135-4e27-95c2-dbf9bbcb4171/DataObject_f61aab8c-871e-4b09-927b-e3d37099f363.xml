@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SHIPX Customers"
-    id="f61aab8c-871e-4b09-927b-e3d37099f363"/>
+    name="SHIPX Customers Profiles"
+    id="f61aab8c-871e-4b09-927b-e3d37099f363"
+    documentation="Klienci zarejestrowani w SHIPX."/>
