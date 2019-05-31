@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Trucker (copy)"
-    id="c561dcb6-24a7-47ff-92b6-efe7ea850fd1"
-    documentation="TMS (Transport Mgmt System)">
-  <properties
-      key="Technology"
-      value=".Net/PostgreSQL"/>
-</archimate:ApplicationComponent>

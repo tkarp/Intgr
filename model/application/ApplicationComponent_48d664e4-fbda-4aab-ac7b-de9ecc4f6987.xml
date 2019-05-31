@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Small Tracking (copy)"
-    id="48d664e4-fbda-4aab-ac7b-de9ecc4f6987"
-    documentation="Udostępnia dane na potrzeby śledzenia paczek&#xD;&#xA;Aktualnie odbiorcą danych jest aplikacja Inpost Mobile.&#xD;&#xA;W planach będzie jedynym źródłem danych dla usługi Track an Trace (aktualnie źródłem danych jest SHIPX).&#xD;&#xA;Trucker zasila SHIPX, SHIPX po kafce zasila mały tracking, tylko 45 dni wstecz..&#xD;&#xA;W planach jest aby dane były przekazywane bezpośrednio z SZOP-a i Truckera bez pośrednictwa SHIPX-a.&#xD;&#xA;">
-  <properties
-      key="Technology"
-      value="Java/mongo db"/>
-</archimate:ApplicationComponent>

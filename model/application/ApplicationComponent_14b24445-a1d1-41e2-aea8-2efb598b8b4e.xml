@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="COD Clearance BRE (copy)"
-    id="14b24445-a1d1-41e2-aea8-2efb598b8b4e"
-    documentation="Generuje podpisy komunikatów transferów do BRE potrzebnych do transferu pobranych przez Integer platności COD   do nadawców.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="Technology"
-      value="Java"/>
-</archimate:ApplicationComponent>
