@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IVR (copy)"
+    id="bba17ba1-b65a-405a-8fa1-d4b575318974"
+    documentation="Automatyczne telefoniczne informacje o paczce">
+  <properties
+      key="Technology"
+      value="Tulium"/>
+</archimate:ApplicationComponent>

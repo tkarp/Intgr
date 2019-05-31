@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APM Next (copy)"
+    id="61684fb0-14e9-4d46-b2b7-a0fcf48de022"
+    documentation="Automatic Parcel Machine based on the microcontroler&#xD;&#xA;Oryginalnie protokół dostepowy był binarny ARI. Planowane jest zastępienie go wspólnym protokołem do zarzadzania APM-ami. &#xD;&#xA;Nie wysyła regulranie logów technicznych. W razie potrzeby muszą być one na zaciągane ręcznie.">
+  <properties
+      key="Technology"
+      value="Integer"/>
+</archimate:ApplicationComponent>

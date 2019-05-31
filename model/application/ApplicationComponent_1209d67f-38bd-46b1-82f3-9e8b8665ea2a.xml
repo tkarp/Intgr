@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pay-By-Link (copy)"
+    id="1209d67f-38bd-46b1-82f3-9e8b8665ea2a"
+    documentation="Realizowanie płatności pobraniowej za pomoca płatności typu Pay-By-Link.  Kod odbioru paczki przychodzi po realizacji platności.&#xD;&#xA;Posiada własną baze danych z rekoradami płatności.&#xD;&#xA;Na końcu przekazuje informację do SZOP-a ">
+  <properties
+      key="Technology"
+      value="Java/PostgreSQL"/>
+</archimate:ApplicationComponent>

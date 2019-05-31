@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Points (copy)"
+    id="ac240f4f-14aa-48a9-aa40-9231e9d8806e"
+    documentation="Informacja o dostępnych paczkomatach i ich lokalizacji&#xD;&#xA;przepisywanie na Javę">
+  <properties
+      key="Technology"
+      value="RR"/>
+</archimate:ApplicationComponent>

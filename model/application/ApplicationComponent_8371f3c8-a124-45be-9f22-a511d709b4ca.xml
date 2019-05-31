@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MMA  (copy)"
+    id="8371f3c8-a124-45be-9f22-a511d709b4ca"
+    documentation="Mobile Mgmt App&#xD;&#xA;Warstwa pośrednicząca w w komunikacji między   ICRA a paczkomatem.&#xD;&#xA;Baza log audytowy  operacji wykonanych przez kuriera.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="Java/Postgresql"/>
+</archimate:ApplicationComponent>

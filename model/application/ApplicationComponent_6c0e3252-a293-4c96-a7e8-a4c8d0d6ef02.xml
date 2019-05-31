@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komunikator (copy)"
+    id="6c0e3252-a293-4c96-a7e8-a4c8d0d6ef02"
+    documentation="Wysyłanie sms-ow oraz maili">
+  <properties
+      key="Technology"
+      value="PHP"/>
+</archimate:ApplicationComponent>

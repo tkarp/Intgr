@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BLIK (copy)"
+    id="3c8fb5bc-e438-445a-b6bb-34bc58698eb4"
+    documentation="Płatność pobraniowa COD Blikiem. ">
+  <properties
+      key="Technology"
+      value="Java"/>
+</archimate:ApplicationComponent>

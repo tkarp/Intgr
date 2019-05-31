@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inpost Mobile"
     id="cf6a160e-3886-42c1-9086-91d0249287ee"
-    documentation="Aplikacja mobilna użytkownika&#xD;&#xA;źródłem danych jest mały tracking&#xD;&#xA;Tylko tracking z szopa i z truckera&#xD;&#xA;Brak nadawania (dyskusyjne bo ludzie uzywają MP), odbiór (problem kilku ludzi)">
+    documentation="Aplikacja mobilna użytkownika&#xD;&#xA;źródłem danych jest mały tracking&#xD;&#xA;Tylko tracking z szopa i z truckera&#xD;&#xA;Brak nadawania (dyskusyjne bo ludzie uzywają MP), odbiór (problem kilku ludzi)&#xD;&#xA;&#xD;&#xA;Śledzenie paczek i przesyłek kurierskich&#xD;&#xA;Autoryzacja podczas odbioru paczki&#xD;&#xA;Notyfikacje dotyczące zmiany statusu paczki&#xD;&#xA;Dokonanie płatności dla przesyłek za pobraniem&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java android"/>
