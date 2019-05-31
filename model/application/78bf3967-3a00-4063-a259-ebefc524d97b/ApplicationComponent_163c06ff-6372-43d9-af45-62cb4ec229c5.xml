@@ -5,5 +5,5 @@
     documentation="Generic Parcel status event&#xD;&#xA;Udostepnia aktualizowany przy każdej zmianie  stan paczek. Aktualnie odbiorcami jest  SEH, oraz X-Files.&#xD;&#xA;Źródłem danych jest SZOP.&#xD;&#xA;&#xD;&#xA;Planowane jest aby GPSE był źródłem danych dla alegro.">
   <properties
       key="Technology"
-      value="Java"/>
+      value="Java/Kafka"/>
 </archimate:ApplicationComponent>
