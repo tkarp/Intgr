@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EAM"
     id="7e9e083d-e9e2-44d7-a87b-ecd98673d645"
-    documentation="Enterprise Asset Management&#xD;&#xA;Zarzadzanie majątkiem jakim są paczkomaty.&#xD;&#xA;Przechowywanie dokumentów związanych z APM-mi i jego częściami, jego serwisowaniem, zawieszane reklamy&#xD;&#xA;Obsługuje procesy biznesowe związane zakupem i utrzymaniem paczkomatów &#xD;&#xA;Oracle/PHP/Angular&#xD;&#xA;&#xD;&#xA;">
+    documentation="Enterprise Asset Management&#xD;&#xA;Przechowywanie dokumentów związanych z APM-mi i jego częściami, jego serwisowaniem, zawieszane reklamy&#xD;&#xA;Obsługuje procesy biznesowe związane zakupem i utrzymaniem paczkomatów &#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
       value="Angular/PHP/Oracle."/>

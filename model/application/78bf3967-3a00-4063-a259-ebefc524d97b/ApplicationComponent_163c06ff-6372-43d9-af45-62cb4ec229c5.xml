@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GPSE"
     id="163c06ff-6372-43d9-af45-62cb4ec229c5"
-    documentation="Generic Parcel status event&#xD;&#xA;Udostepnia aktualizowany przy każdej zmianie  stan paczek. Aktualnie odbiorcami jest  SEH, oraz X-Files.&#xD;&#xA;Źródłem danych jest SZOP.&#xD;&#xA;&#xD;&#xA;Planowane jest aby GPSE był źródłem danych dla alegro.">
+    documentation="Generic Parcel status event&#xD;&#xA;Udostepnia aktualizowany przy każdej zmianie  stan paczek. Aktualnie odbiorcami jest  SEH, oraz X-Files.&#xD;&#xA;Źródłem danych jest SZOP.">
   <properties
       key="Technology"
       value="Java/Kafka"/>

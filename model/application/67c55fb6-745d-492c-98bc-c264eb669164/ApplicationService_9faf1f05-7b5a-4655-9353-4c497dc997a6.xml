@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Notification"
+    id="9faf1f05-7b5a-4655-9353-4c497dc997a6"
+    documentation="Powiadamianie klientółw o statusie paczki&#xD;&#xA;Przesyłanie kodu odbioru"/>

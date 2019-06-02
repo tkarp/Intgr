@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cash on delivery payment"
-    id="6e870107-5983-4ff8-89dd-76901b6c69b6"/>
+    name="Cash On Delivery Payment"
+    id="6e870107-5983-4ff8-89dd-76901b6c69b6"
+    documentation="Realizacja płatności pobraniowej"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Couriers operations on APM audit"
-    id="71eb97df-c8d8-47a9-be20-165597ed2a01"/>
+    name="Couriers operations on APM"
+    id="71eb97df-c8d8-47a9-be20-165597ed2a01"
+    documentation="Operacje Kuriera na paczkomacie (ładowanie i wyładowanie paczkomatu)"/>

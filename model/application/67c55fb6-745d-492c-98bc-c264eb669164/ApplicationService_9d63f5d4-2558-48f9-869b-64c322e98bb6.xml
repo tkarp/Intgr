@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COD Transfers"
+    id="9d63f5d4-2558-48f9-869b-64c322e98bb6"
+    documentation="Realizacja  transferami  pobranych przez Integer platności pobraniowych   do nadawców."/>

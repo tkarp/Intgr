@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepaid Billing"
+    id="e83457d3-b522-4114-a7ce-dab17befabe5"
+    documentation="Pobieranie płatności za przesyłki w modelu przedpłatowym"/>
