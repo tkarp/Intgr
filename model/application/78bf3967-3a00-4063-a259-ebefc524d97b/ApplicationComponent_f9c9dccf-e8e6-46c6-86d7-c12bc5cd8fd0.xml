@@ -5,5 +5,5 @@
     documentation="Realizacja zintegrowanego (obejmującego usługi kurierskie oraz paczkomatowe) api dostępowego &#xD;&#xA;Zarządza kontami  klientów, do celów autentykacji. (Spięte adresem maili z kontem SZOP-e w Truckerze).&#xD;&#xA;Aktualnie  wszystkie paczki i wszystkie zmiany są synchronizowane do SHIPX-a i który źródłem danych do trackingu.&#xD;&#xA;Aktualnie jest źródłem danych do usługi Track and Trace.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
-      value="RR/PostgreSQL"/>
+      value="RR/PostgresSQL"/>
 </archimate:ApplicationComponent>
