@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The Nearest Goal (Before the Peak) - fixing the problems"
+    id="be340db4-e4fd-48e0-9542-30b7863fa0f4"
+    documentation="Naprawa komponentów mających problemy wydajnościowe: &#xD;&#xA;Refaktor SEH w Javie (usunięcie problemów z konsumpcją GPSE na kafce)&#xD;&#xA;Przepięcie Trace &amp; Tracking z SHIPX na Small Tracking - w konsekwencji możliwe będzie usunięcie archiwalnych rekordów paczek z SHIPX i zmniejszenia bazy danych SHIPX do minimu."/>
