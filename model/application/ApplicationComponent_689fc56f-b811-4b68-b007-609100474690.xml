@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inpost Mobile (copy)"
-    id="689fc56f-b811-4b68-b007-609100474690"
-    documentation="Aplikacja mobilna użytkownika&#xD;&#xA;źródłem danych jest mały tracking&#xD;&#xA;Tylko tracking z szopa i z truckera&#xD;&#xA;Brak nadawania (dyskusyjne bo ludzie uzywają MP), odbiór (problem kilku ludzi)">
-  <properties
-      key="Technology"
-      value="Java android"/>
-</archimate:ApplicationComponent>

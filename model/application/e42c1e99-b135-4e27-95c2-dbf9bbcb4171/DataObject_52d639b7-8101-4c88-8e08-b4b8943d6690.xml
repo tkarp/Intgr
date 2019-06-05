@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Current Parcels"
+    name="Current Parcels Full Data"
     id="52d639b7-8101-4c88-8e08-b4b8943d6690"
-    documentation="Bieżące Paczki - w trakcie operacji logistycznych oraz juz dostarczone ale nie starsze niz 4 miesiące."/>
+    documentation="Bieżące Paczki Pełne Dane - w trakcie operacji logistycznych oraz juz dostarczone ale nie starsze niz 4 miesiące."/>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SZOP Short Term Goal - decreasing the architecture debt"
+    id="e4d6a287-4a2e-45ac-9f36-77bb51951944"
+    documentation="Likwidacja Ruby on Rails &#xD;&#xA;Refaktor SHIPX&#xD;&#xA;Usunięcie API 4.0&#xD;&#xA;"/>

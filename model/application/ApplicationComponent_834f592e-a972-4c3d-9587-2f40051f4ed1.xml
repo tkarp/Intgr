@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SEH (copy)"
-    id="834f592e-a972-4c3d-9587-2f40051f4ed1"
-    documentation="Przegotowuje treści notyfikacji mailowych i sms-owych&#xD;&#xA;Realizuje logikę  wyboru szablonów oraz podejmuje decyzje w jakich sytuacjach  wysyłać powiadomienia.&#xD;&#xA;Źródło danych: GPSE na Kafce,&#xD;&#xA;Aktualnie techniczne problemy  (PHP nie jest w stanie efektywnie odbierac dane z kafki) z efektywną konsumpcją danych GPSE .&#xD;&#xA;Aktualnie reimplementowany w javie.">
-  <properties
-      key="Technology"
-      value="PHP"/>
-</archimate:ApplicationComponent>

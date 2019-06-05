@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chat Bot (copy)"
-    id="f0aadef3-ebdc-4851-a2bd-ad5fb923da0a"
-    documentation="Automatyczne usługi konwersacyjne.">
-  <properties
-      key="Technology"/>
-</archimate:ApplicationComponent>

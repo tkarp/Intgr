@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SZOP Core (copy)"
-    id="0fc9dd94-b397-45fd-ae18-12ba7e0495a1"
-    documentation="System Zintegrowanej Obsługi Paczkomatów.&#xD;&#xA;Zarządzanie operacjami na paczkach w paczkomatach, zarządzania paczkomatami, zarządzanie Klientami, Billing&#xD;&#xA;">
-  <properties
-      key="Technology"
-      value="Java/Postgresql"/>
-</archimate:ApplicationComponent>

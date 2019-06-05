@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Parcel REPO (copy)"
-    id="a9849505-bd9d-4c18-ac61-0d643adf84f7"
-    documentation="Repozytorium danych o paczkach SZOP-owych&#xD;&#xA;Źródło: zmiany na bazie SZOP-a &#xD;&#xA;Odbiorcą danych jest MP 3.0,  API v2. SZOP Administrative Console.">
-  <properties
-      key="Technology"
-      value="Elastic Search"/>
-</archimate:ApplicationComponent>

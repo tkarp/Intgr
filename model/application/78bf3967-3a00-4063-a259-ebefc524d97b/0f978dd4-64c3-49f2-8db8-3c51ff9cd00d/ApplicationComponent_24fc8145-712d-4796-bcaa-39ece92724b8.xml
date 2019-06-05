@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Top-Up Prepaid"
+    id="24fc8145-712d-4796-bcaa-39ece92724b8"
+    documentation="Zasilenie konta przedpłatowego">
+  <properties
+      key="Technology"
+      value="Java"/>
+</archimate:ApplicationComponent>

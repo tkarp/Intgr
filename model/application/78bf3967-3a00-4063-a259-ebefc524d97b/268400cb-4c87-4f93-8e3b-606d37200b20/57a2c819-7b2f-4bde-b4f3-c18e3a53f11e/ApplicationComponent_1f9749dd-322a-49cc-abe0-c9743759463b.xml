@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refactored Java SEH "
+    id="1f9749dd-322a-49cc-abe0-c9743759463b"
+    documentation="Przegotowuje treści notyfikacji mailowych i sms-owych&#xD;&#xA;Realizuje logikę  wyboru szablonów oraz podejmuje decyzje w jakich sytuacjach  wysyłać powiadomienia.&#xD;&#xA;Źródło danych: GPSE na Kafce,&#xD;&#xA;">
+  <properties
+      key="Technology"
+      value="PHP"/>
+</archimate:ApplicationComponent>

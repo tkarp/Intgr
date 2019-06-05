@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Data Mgmt"
+    id="d6f7f4cf-7fd2-47ac-9efa-b67a08f8c132"
+    documentation="Zarządzanie danymi klienta i jego kontem, danymi uwierzytelniającymi."/>

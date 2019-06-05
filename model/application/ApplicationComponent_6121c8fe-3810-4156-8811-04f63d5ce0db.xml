@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APM (copy)"
-    id="6121c8fe-3810-4156-8811-04f63d5ce0db"
-    documentation="Automatic Parcel Machine&#xD;&#xA;Paczkomat&#xD;&#xA;">
-  <properties
-      key="Technology"
-      value="Integer"/>
-</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slim SZOP"
+    id="3cd56c07-5415-4012-bf3b-09a4af096ca0"
+    documentation="System Zintegrowanej Obsługi Paczkomatów.&#xD;&#xA;Zarządzanie operacjami na paczkach w paczkomatach, zarządzania paczkomatami, zarządzanie Klientami, Billing&#xD;&#xA;Zarządzenie firmeware paczkomatu&#xD;&#xA;Stan paczkomatu / monitorowanie / notyfikacje&#xD;&#xA;Przetwarzanie paczek (załadunek rozładunek)&#xD;&#xA;Prejerestrowanie kont kurierów na paczkomacie (na potrzeby logowania w SZOP)"/>

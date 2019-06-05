@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Track &amp; Trace (copy)"
-    id="322cc290-0bed-488c-ace7-549f09af5f54"
-    documentation="Webowy GUI udostępnijący usługę Track &amp; Trace.">
-  <properties
-      key="Technology"
-      value="PHP"/>
-</archimate:ApplicationComponent>

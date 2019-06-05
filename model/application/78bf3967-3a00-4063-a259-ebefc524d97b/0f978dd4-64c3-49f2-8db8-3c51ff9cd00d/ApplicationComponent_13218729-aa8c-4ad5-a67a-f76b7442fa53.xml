@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Points"
+    id="13218729-aa8c-4ad5-a67a-f76b7442fa53"
+    documentation="Informacja o dostępnych paczkomatach i ich lokalizacji">
+  <properties
+      key="Technology"
+      value="RR"/>
+</archimate:ApplicationComponent>

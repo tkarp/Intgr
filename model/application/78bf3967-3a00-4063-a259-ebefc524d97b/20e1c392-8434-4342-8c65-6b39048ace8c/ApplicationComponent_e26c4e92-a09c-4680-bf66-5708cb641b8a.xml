@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eMapa"
+    id="e26c4e92-a09c-4680-bf66-5708cb641b8a"
+    documentation="Komunikaca z emapą, routing, "/>

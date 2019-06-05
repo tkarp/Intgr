@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API 2.0 (copy)"
-    id="5541fe42-9573-4012-8520-112f42281ae9"
-    documentation="Stare API dostępowe do SZOP-a (wciąż używane) xml/http">
-  <properties
-      key="Technology"
-      value="PHP"/>
-</archimate:ApplicationComponent>
