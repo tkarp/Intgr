@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SZOP Operating Applications - The Nearest Term"
     id="bd6e3f2f-9e28-4c98-8af1-ae74db553a72"
-    documentation="Refaktor SEH w Javie (usunięcie problemów z konsumpcją GPSE na kafce)&#xD;&#xA;Przepięcie Trace &amp; Tracking z SHIPX na Small Tracking - w konsekwencji możliwe będzie usunięcie archiwalnych rekordów paczek z SHIPX i zmniejszenia bazy danych SHIPX do minimum.">
+    documentation="Refaktor SEH w Javie (usunięcie problemów z konsumpcją GPSE na kafce)&#xD;&#xA;Przepięcie Track &amp; Trace z SHIPX na Small Tracking - w konsekwencji możliwe będzie usunięcie archiwalnych rekordów paczek z SHIPX i zmniejszenia bazy danych SHIPX do minimum.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="b59611fb-4fea-410a-add5-32b083a42ae9"

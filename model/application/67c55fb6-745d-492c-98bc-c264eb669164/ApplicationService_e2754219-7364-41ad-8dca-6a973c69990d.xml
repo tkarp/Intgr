@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Parcel Management"
+    name="Parcel Management By Customers"
     id="e2754219-7364-41ad-8dca-6a973c69990d"
     documentation="Zarządzanie paczkami (tworzenie,  drukowanie etykiet, śledzenie stanu paczek)"/>
