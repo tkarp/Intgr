@@ -5,5 +5,5 @@
     documentation="Aplikacja mobilna użytkownika&#xD;&#xA;Śledzenie paczek i przesyłek kurierskich&#xD;&#xA;Autoryzacja podczas odbioru paczki&#xD;&#xA;Notyfikacje dotyczące zmiany statusu paczki&#xD;&#xA;Dokonanie płatności dla przesyłek za pobraniem&#xD;&#xA;">
   <properties
       key="Technology"
-      value="Java android"/>
+      value="Android, IOS"/>
 </archimate:ApplicationComponent>

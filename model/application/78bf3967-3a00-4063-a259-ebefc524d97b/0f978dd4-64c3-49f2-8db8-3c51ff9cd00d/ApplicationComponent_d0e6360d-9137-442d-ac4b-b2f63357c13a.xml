@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SZOP Bis Proxy"
     id="d0e6360d-9137-442d-ac4b-b2f63357c13a"
-    documentation="Translacja komunikacji miedzy SZOP-em a APM Next. Między zunifikowanym protokołem do zarzadzania APM-ami (Classic) a protokołem binarnym (ARI)&#xD;&#xA;Planowana jest implmenetacja na APM Next  obsługi zunifikowanego protokołu komunikacyjnego z APM  i wycofanie SZOP Bis Proxy&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    documentation="Translacja komunikacji miedzy SZOP-em a APM Next. Między zunifikowanym protokołem do zarzadzania APM-ami (Classic) a protokołem binarnym (ARI)&#xD;&#xA;Aktualnie trwają prace mające na celu Planowana   jest implementacjęa na APM Next obsługi zunifikowanego protokołu komunikacyjnego z APM  i wycofanie SZOP Bis Proxy&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java"/>

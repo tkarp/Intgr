@@ -5,5 +5,5 @@
     documentation="Mobile Mgmt App&#xD;&#xA;Warstwa pośrednicząca w w komunikacji między   ICRA a paczkomatem.&#xD;&#xA;Baza log audytowy  operacji wykonanych przez kuriera.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
-      value="Java/Postgresql"/>
+      value="Java/Elastic Search"/>
 </archimate:ApplicationComponent>
