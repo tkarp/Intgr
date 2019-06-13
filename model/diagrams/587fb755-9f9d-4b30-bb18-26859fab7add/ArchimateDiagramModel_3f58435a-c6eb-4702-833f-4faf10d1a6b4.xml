@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SZOP Operating Applications - Medium Term - pohase 1"
+    name="SZOP Operating Applications - Medium Term - phase 1"
     id="3f58435a-c6eb-4702-833f-4faf10d1a6b4"
     documentation="Wyodrębnienie z SZOP-a komponentu do zarządzania danymi klienta&#xD;&#xA;Redukcja funkcjonalności SZOP do zarządzania paczkomatami i paczkami">
   <children
