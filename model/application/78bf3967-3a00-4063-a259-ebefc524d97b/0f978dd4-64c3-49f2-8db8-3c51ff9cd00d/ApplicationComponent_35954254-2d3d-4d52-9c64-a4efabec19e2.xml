@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parcel REPO"
     id="35954254-2d3d-4d52-9c64-a4efabec19e2"
-    documentation="Repozytorium danych o paczkach SZOP-owych&#xD;&#xA;Źródło: zmiany na bazie SZOP-a &#xD;&#xA;Odbiorcą danych jest MP 3.0,  API v2. SZOP Administrative Console.">
+    documentation="Inactive parcels repository.">
   <properties
       key="Technology"
       value="Java/Elastic Search"/>

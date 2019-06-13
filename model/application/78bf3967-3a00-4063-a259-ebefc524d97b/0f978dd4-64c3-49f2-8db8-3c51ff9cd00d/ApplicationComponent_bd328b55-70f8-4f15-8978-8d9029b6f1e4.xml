@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APM Next"
     id="bd328b55-70f8-4f15-8978-8d9029b6f1e4"
-    documentation="Paczkomat oparty o mikrokontroler a nie PC.&#xD;&#xA;Oryginalnie protokół dostępowy - binarny ARI. Planowane Aktualnie trwają prace mające na celu jest zastąpienie go wspólnym protokołem do zarzadzania paczkomatami. &#xD;&#xA;Nie wysyła regularnie logów technicznych. W razie potrzeby muszą być one na zaciągane ręcznie.">
+    documentation="Automatic Parcel Machine based on the microcontroller.">
   <properties
       key="Technology"
       value="Integer"/>

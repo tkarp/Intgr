@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API 4.0"
     id="2943e14e-57d4-4f13-8f98-0d5b991b8d54"
-    documentation="Pośrednia wersja api dostępowego &#xD;&#xA;Zarządzanie paczkami i ich monitorowanie.&#xD;&#xA;Obsługuje funkcjonalność allegro kod zwrotu.">
+    documentation="Another legacy access  API">
   <properties
       key="Technology"
       value="RR"/>

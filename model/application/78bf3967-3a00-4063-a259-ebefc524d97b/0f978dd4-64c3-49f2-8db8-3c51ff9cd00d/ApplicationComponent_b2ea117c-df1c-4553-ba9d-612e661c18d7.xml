@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IVR"
     id="b2ea117c-df1c-4553-ba9d-612e661c18d7"
-    documentation="Automatyczne telefoniczne informacje o paczce">
+    documentation="Interactive Voice Response. ">
   <properties
       key="Technology"
       value="Tulium"/>

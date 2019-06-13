@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MMA "
     id="87e6ccbd-20e5-42de-8f65-bfe3bcffd19e"
-    documentation="Mobile Mgmt App&#xD;&#xA;Warstwa pośrednicząca w w komunikacji między   ICRA a paczkomatem.&#xD;&#xA;Baza log audytowy  operacji wykonanych przez kuriera.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    documentation="Mobile Mgmt App&#xD;&#xA;Mediation between ICRA and SZOP.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java/Elastic Search"/>

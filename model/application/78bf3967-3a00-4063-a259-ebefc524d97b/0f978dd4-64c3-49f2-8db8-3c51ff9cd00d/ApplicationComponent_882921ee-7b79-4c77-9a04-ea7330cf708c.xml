@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SZOP Administrative Console"
     id="882921ee-7b79-4c77-9a04-ea7330cf708c"
-    documentation="Webowe GUI do zarzadzania SZOP-em&#xD;&#xA;Zarządzanie kurierami (nie w polsce, kurierami zarzadza TUCKER)&#xD;&#xA;Zarządzanie kontem prepaid, prezentacja konta postpaid Read only), prezentacja kurierów, przegład paczek, zarządzanie i stan (zajetośc, niedostępność skrzynek) paczkoamtami.">
+    documentation="Web GUI for SZOp mgmt.">
   <properties
       key="Technology"
       value="PHP"/>

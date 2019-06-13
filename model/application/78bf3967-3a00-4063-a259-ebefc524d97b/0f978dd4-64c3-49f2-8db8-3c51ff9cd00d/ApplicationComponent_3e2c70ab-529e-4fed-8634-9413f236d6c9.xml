@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PLCI"
     id="3e2c70ab-529e-4fed-8634-9413f236d6c9"
-    documentation="Parcel Locker Capacity Indicator&#xD;&#xA;Udostępnia stan skrytek paczkomatu (Ile skrytek w jakich rozmiarach, w których są paczki w jakich gabarytach, skrytki niedostępne itp.)&#xD;&#xA;Odbiorca danych jest: SZOP Administrative Console, Trucker.&#xD;&#xA;Zawiera dane historyczne&#xD;&#xA;&#xD;&#xA;">
+    documentation="Parcel Locker Capacity Indicator&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java/Elastic Search"/>
