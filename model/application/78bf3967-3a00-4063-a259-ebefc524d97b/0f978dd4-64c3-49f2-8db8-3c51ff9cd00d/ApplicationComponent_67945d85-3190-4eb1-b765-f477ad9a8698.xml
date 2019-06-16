@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="COD Clearance BRE"
     id="67945d85-3190-4eb1-b765-f477ad9a8698"
-    documentation="Generuje podpisy komunikatów z transferami  pobranych przez Integer platności pobraniowych   do nadawców.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    documentation="Helps to transfer of the COD payments collected by Integer to the suppliers. .&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java"/>

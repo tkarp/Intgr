@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Console X"
     id="a9c22a18-05dc-4897-87e6-590ae82bd47b"
-    documentation="GUI do administrowania SHIPX&#xD;&#xA;">
+    documentation="SHIPX Management GUI&#xD;&#xA;">
   <properties
       key="Technology"
       value="RR"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Komunikator"
     id="eeaeb353-b23e-4a00-9f6d-c02c60a4df4c"
-    documentation="Wysyłanie sms-ow oraz maili">
+    documentation="Notification SMS’s and mails sending">
   <properties
       key="Technology"
       value="PHP"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aplikacja Kurierska"
-    id="97d154c8-40c0-421f-bde2-94c552b4f586"/>
+    id="97d154c8-40c0-421f-bde2-94c552b4f586"
+    documentation="Na smartfonie i na zebrze."/>

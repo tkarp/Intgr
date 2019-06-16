@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parcel Manager 3.0"
     id="5571ad37-3f37-46f2-9da3-7426556cd801"
-    documentation="Webowe GUI do zarządzania paczkami (przegląd, tworzenie paczek, opłacanie, drukowanie, itd), profilem użytkownika, kontem przedpłatowym.&#xD;&#xA;Można powiązać konto z alegro i dzięki dedykowanej integracji można zaimportowac sprzedane towary i automatycznie utworzyć brandowane paczki.&#xD;&#xA;&#xD;&#xA;Zarządzanie paczką - tworzenie zlecenia paczki / zestawu paczek do wysyłki, manifestowanie, opłata&#xD;&#xA;jedna, wiele, z pliku&#xD;&#xA;Zlecenie podjazdu &#xD;&#xA;Zarządzanie kontem użytkownika - zmiana danych klienta, zmiana parametrów konta (np. przesyłki promocyjne)&#xD;&#xA;Zarządzanie kontem przedpłatowym - saldo, zasilenie konta przedpłatowego, generowanie faktur&#xD;&#xA;Promocje – przejście na umowę postpaid&#xD;&#xA;Raporty dot. listy i statusu paczek&#xD;&#xA;Powiązanie konta z Allegro&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    documentation="Web GUI for Customers&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
       value="Angular/PHP"/>

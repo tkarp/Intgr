@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SZOP Core"
     id="7bbb2bcf-eb02-41e6-a407-221dce74aad1"
-    documentation="System Zintegrowanej Obsługi Paczkomatów.&#xD;&#xA;Zarządzanie operacjami na paczkach w paczkomatach, zarządzania paczkomatami, zarządzanie Klientami, Billing&#xD;&#xA;Zarządzenie firmeware paczkomatu&#xD;&#xA;Stan paczkomatu / monitorowanie / notyfikacje&#xD;&#xA;Przetwarzanie paczek (załadunek rozładunek)&#xD;&#xA;Prejerestrowanie kont kurierów na paczkomacie (na potrzeby logowania w SZOP)&#xD;&#xA;Obgługa konta prepaid&#xD;&#xA;Prejerestrowanie paczek&#xD;&#xA;Rejestracja salda prepaid&#xD;&#xA;&#xD;&#xA;">
+    documentation="Integrated APM Mgmt System&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Technology"
       value="Java/PostgreSQL"/>
