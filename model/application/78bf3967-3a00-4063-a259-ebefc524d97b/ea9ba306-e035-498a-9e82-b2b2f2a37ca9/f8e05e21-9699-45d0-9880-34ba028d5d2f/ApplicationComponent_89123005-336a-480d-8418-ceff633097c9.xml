@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gallery "
+    id="89123005-336a-480d-8418-ceff633097c9"
+    documentation="repozytorium zdjęć uszkodzonych przesyłek, przechowuje również: datę zaistnienia uszkodzenia, opis uszkodzenia/zawartości. Funkcjonalność obecnie migrowana do Truckera"/>
