@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Parcel Manager 3.0"
+    name="Parcel Manager"
     id="5571ad37-3f37-46f2-9da3-7426556cd801"
     documentation="Web GUI for Customers&#xD;&#xA;&#xD;&#xA;">
   <properties
