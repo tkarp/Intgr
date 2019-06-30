@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Push Notification System"
+    id="55a96c24-9f62-4d25-bdb8-553fc00d820f"
+    documentation="Mobile Push,  Email, SMS notification"/>

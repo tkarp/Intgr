@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Refactored Java SHIPX"
-    id="08a4c156-062a-47a9-921c-5869067aa1c2"
-    documentation="Integrated access api.&#xD;&#xA;Realizacja zintegrowanego (obejmującego usługi kurierskie oraz paczkomatowe) api dostępowego &#xD;&#xA;Zarządza kontami  klientów, do celów autentykacji. (Spięte adresem maili z kontem SZOP-e w Truckerze).&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="Technology"
-      value="RR/PostgresSQL"/>
-</archimate:ApplicationComponent>

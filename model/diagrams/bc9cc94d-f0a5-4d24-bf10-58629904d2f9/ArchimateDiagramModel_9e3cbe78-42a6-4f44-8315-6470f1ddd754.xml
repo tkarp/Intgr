@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integer"
+    id="9e3cbe78-42a6-4f44-8315-6470f1ddd754">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a905d949-e234-4084-9278-c50c37526a30">
+    <bounds
+        x="276"
+        y="60"
+        width="205"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_75a3a7dd-4ad8-4103-804e-aab80bfb90f9.xml#75a3a7dd-4ad8-4103-804e-aab80bfb90f9"/>
+  </children>
+</archimate:ArchimateDiagramModel>
