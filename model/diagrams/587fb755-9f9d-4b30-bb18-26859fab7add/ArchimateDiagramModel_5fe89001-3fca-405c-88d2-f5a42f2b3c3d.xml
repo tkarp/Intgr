@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SZOP Operating Applications - Short Term"
+    name="SZOP - Short Term"
     id="5fe89001-3fca-405c-88d2-f5a42f2b3c3d"
     documentation="Likwidacja Ruby on Rails  - Refaktor SHIPX&#xD;&#xA;Usunięcie API 4.0&#xD;&#xA;Usunięcie API 2.0&#xD;&#xA;">
   <children
