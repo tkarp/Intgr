@@ -342,7 +342,7 @@
         id="7022dc9f-944e-41ac-93f3-0cd790e9becf"
         targetConnections="e88a359b-c56b-4701-9127-452869ffface">
       <bounds
-          x="804"
+          x="540"
           y="24"
           width="120"
           height="55"/>
@@ -355,8 +355,8 @@
         id="abcc33ac-7335-429c-a8a2-30517829667d"
         targetConnections="6f709554-78d6-4559-a9bf-b0050c4d670c">
       <bounds
-          x="144"
-          y="96"
+          x="672"
+          y="24"
           width="120"
           height="55"/>
       <archimateElement
@@ -368,8 +368,8 @@
         id="27e9e321-078a-4b72-905f-f5b71a870f5d"
         targetConnections="3ed10b8c-b4b1-4ecd-9cb9-421024d3da96">
       <bounds
-          x="408"
-          y="96"
+          x="276"
+          y="24"
           width="120"
           height="55"/>
       <archimateElement
@@ -381,7 +381,7 @@
         id="138ef183-ea32-444a-8ba3-863bbcac2dc8"
         targetConnections="7ce78313-1c75-4d3b-816e-608aeee1c4f1">
       <bounds
-          x="1068"
+          x="408"
           y="24"
           width="120"
           height="55"/>
