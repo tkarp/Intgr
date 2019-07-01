@@ -52,8 +52,8 @@
           href="RealizationRelationship_8cd5e50b-ba5b-4dc6-9e62-d67485105dd9.xml#8cd5e50b-ba5b-4dc6-9e62-d67485105dd9"/>
     </sourceConnections>
     <bounds
-        x="2"
-        y="168"
+        x="12"
+        y="24"
         width="321"
         height="277"/>
     <children
@@ -183,8 +183,8 @@
           href="RealizationRelationship_1dd83480-c7e3-4c74-9fcd-ccd1773b611b.xml#1dd83480-c7e3-4c74-9fcd-ccd1773b611b"/>
     </sourceConnections>
     <bounds
-        x="2"
-        y="456"
+        x="12"
+        y="312"
         width="317"
         height="289"/>
     <children
@@ -291,10 +291,10 @@
           href="RealizationRelationship_b914fc89-5fa2-4d33-9927-84c3d781e602.xml#b914fc89-5fa2-4d33-9927-84c3d781e602"/>
     </sourceConnections>
     <bounds
-        x="2"
-        y="12"
+        x="382"
+        y="24"
         width="317"
-        height="145"/>
+        height="277"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="36ccd7c1-8e06-4723-9de7-c1f9b96ce482"
@@ -324,16 +324,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_772a581c-0f95-46ed-9276-d2718d27457d.xml#772a581c-0f95-46ed-9276-d2718d27457d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="f5f42e22-60eb-430a-96dc-0439f236fe52"
-      textAlignment="1"
-      content="Key issues of the current app arch&#xD;&#xA;Redundancy capablairies realzation&#xD;&#xA;Niestabilny Trucker&#xD;&#xA;Nieskalowalny Trucker&#xD;&#xA;Monolityczny Trucker&#xD;&#xA;">
-    <bounds
-        x="576"
-        y="120"
-        width="253"
-        height="253"/>
   </children>
 </archimate:ArchimateDiagramModel>

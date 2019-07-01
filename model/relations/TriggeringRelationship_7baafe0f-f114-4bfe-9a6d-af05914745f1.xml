@@ -1,11 +1,11 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="1c831911-7900-4a8c-b67e-febf77a0faa9">
+    id="7baafe0f-f114-4bfe-9a6d-af05914745f1">
   <source
       xsi:type="archimate:Plateau"
       href="Plateau_06f35e9e-e893-4013-b2a2-9ab6a38c8bfe.xml#06f35e9e-e893-4013-b2a2-9ab6a38c8bfe"/>
   <target
-      xsi:type="archimate:Junction"
-      href="Junction_050f9b2c-c210-426c-8a8e-287d5a40b444.xml#050f9b2c-c210-426c-8a8e-287d5a40b444"/>
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_8bedd2d6-cf7e-4f1d-af86-709ae5f3ca9b.xml#8bedd2d6-cf7e-4f1d-af86-709ae5f3ca9b"/>
 </archimate:TriggeringRelationship>
