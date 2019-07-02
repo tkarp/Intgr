@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Short Term"
+    name="Ordering Refactored"
     id="f26d7357-9b5b-4238-a218-1d3be8223499">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -9,8 +9,8 @@
       name="Enteprise Application Integration"
       textAlignment="1">
     <bounds
-        x="684"
-        y="576"
+        x="660"
+        y="420"
         width="325"
         height="193"/>
     <children
@@ -53,11 +53,11 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="0d0c66e9-473b-4cbe-9202-1486ea00cefd"
-      name="New Access API &amp; GUI"
+      name="New Ordering"
       textAlignment="1">
     <bounds
-        x="684"
-        y="216"
+        x="660"
+        y="48"
         width="325"
         height="337"/>
     <children
@@ -164,17 +164,6 @@
     </children>
   </children>
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="0da64677-ff17-4e5a-8ab9-56443a181679"
-      name="Removal Legacy API"
-      textAlignment="1">
-    <bounds
-        x="684"
-        y="24"
-        width="265"
-        height="145"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bfb97d67-fc03-40ab-863d-d4825745614b">
     <sourceConnections
@@ -275,18 +264,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_5829c618-4a31-4020-95a7-9d32209adc15.xml#5829c618-4a31-4020-95a7-9d32209adc15"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="236f19ab-819b-4963-b58e-9e56d29a816b">
-    <bounds
-        x="696"
-        y="60"
-        width="241"
-        height="43"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_2943e14e-57d4-4f13-8f98-0d5b991b8d54.xml#2943e14e-57d4-4f13-8f98-0d5b991b8d54"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
