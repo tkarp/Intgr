@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ordering Refactored"
+    name="New Ordering Application Architecture"
     id="f26d7357-9b5b-4238-a218-1d3be8223499">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -576,16 +576,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_d8b344ce-6ce0-4c91-8ee1-a12254677dd3.xml#d8b344ce-6ce0-4c91-8ee1-a12254677dd3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="72050eba-516b-4c03-859f-e5fbd4e595a5"
-      textAlignment="1"
-      content="Emulowanie starych API.">
-    <bounds
-        x="996"
-        y="126"
-        width="133"
-        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

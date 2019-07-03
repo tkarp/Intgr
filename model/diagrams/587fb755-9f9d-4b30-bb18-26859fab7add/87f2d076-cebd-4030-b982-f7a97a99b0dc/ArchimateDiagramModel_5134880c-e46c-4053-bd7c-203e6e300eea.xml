@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New Billing"
+    name="New Billing Application Architecture"
     id="5134880c-e46c-4053-bd7c-203e6e300eea">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

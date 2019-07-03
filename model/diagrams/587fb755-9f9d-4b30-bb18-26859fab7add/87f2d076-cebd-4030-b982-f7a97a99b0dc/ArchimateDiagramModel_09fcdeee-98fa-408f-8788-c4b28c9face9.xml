@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New CRM Billing TMS "
+    name="New TMS Application Architecture"
     id="09fcdeee-98fa-408f-8788-c4b28c9face9">
   <children
       xsi:type="archimate:DiagramModelGroup"
