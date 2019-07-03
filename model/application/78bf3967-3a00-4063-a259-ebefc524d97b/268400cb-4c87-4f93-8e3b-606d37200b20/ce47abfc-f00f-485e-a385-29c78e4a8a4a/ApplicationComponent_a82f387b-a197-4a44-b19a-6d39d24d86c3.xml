@@ -1,7 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New SHIPX "
-    id="f9c9dccf-e8e6-46c6-86d7-c12bc5cd8fd0"
+    name="Refactored SHIPX "
+    id="a82f387b-a197-4a44-b19a-6d39d24d86c3"
     documentation="The newest access API&#xD;&#xA;">
   <properties
       key="Technology"

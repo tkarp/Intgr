@@ -437,15 +437,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="0e2f03e0-5fa9-49d8-8617-08aa01baa68c"
-        source="10578b10-bb93-45b4-8417-2e90fb2a5e09"
-        target="c69e947c-820e-4d2c-8d4c-2f985bb69675">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_a17614d0-acd2-49be-9894-7183767d2baa.xml#a17614d0-acd2-49be-9894-7183767d2baa"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="403d59f4-3f16-4f73-83c9-26f8cef9ec36"
         source="10578b10-bb93-45b4-8417-2e90fb2a5e09"
         target="9a80a1f8-689a-4246-a5dc-2eb257c5510c">
@@ -499,8 +490,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="c69e947c-820e-4d2c-8d4c-2f985bb69675"
-        targetConnections="0e2f03e0-5fa9-49d8-8617-08aa01baa68c">
+        id="c69e947c-820e-4d2c-8d4c-2f985bb69675">
       <bounds
           x="24"
           y="336"
@@ -586,5 +576,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_d8b344ce-6ce0-4c91-8ee1-a12254677dd3.xml#d8b344ce-6ce0-4c91-8ee1-a12254677dd3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="72050eba-516b-4c03-859f-e5fbd4e595a5"
+      textAlignment="1"
+      content="Emulowanie starych API.">
+    <bounds
+        x="996"
+        y="126"
+        width="133"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

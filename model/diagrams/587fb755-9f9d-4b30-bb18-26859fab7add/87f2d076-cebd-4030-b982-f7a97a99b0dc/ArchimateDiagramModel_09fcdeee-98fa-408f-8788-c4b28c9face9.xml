@@ -4,6 +4,17 @@
     name="New CRM Billing TMS "
     id="09fcdeee-98fa-408f-8788-c4b28c9face9">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="d7c0f035-1234-4a1d-aaf3-32bc4af36bcd"
+      name="Problem istniejącej integracji z klientami zewn."
+      textAlignment="1">
+    <bounds
+        x="804"
+        y="24"
+        width="529"
+        height="145"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="092ab95e-319d-4393-8d75-a2a410837b29">
     <sourceConnections
@@ -16,8 +27,8 @@
           href="RealizationRelationship_caa1df4f-f9d8-4e5c-bd20-8c7cbe66fda0.xml#caa1df4f-f9d8-4e5c-bd20-8c7cbe66fda0"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="360"
+        x="828"
+        y="504"
         width="241"
         height="73"/>
     <children
@@ -50,8 +61,8 @@
           href="RealizationRelationship_2b26aa17-b4e4-4c7e-a68b-6effa4c2c0aa.xml#2b26aa17-b4e4-4c7e-a68b-6effa4c2c0aa"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="276"
+        x="828"
+        y="420"
         width="241"
         height="73"/>
     <children
@@ -364,15 +375,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2afe1c62-4039-4a7f-ad11-b51299405b6f">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="7fdd133a-7624-4cbc-b950-3fda5773310b"
-          source="2afe1c62-4039-4a7f-ad11-b51299405b6f"
-          target="cdcbe46f-7ccf-4dcd-9dc5-0fcde284fa2d">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_c10809d8-49df-4f8f-907c-5db7dcf04e98.xml#c10809d8-49df-4f8f-907c-5db7dcf04e98"/>
-      </sourceConnections>
       <bounds
           x="44"
           y="540"
@@ -380,8 +382,7 @@
           height="133"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="cdcbe46f-7ccf-4dcd-9dc5-0fcde284fa2d"
-          targetConnections="7fdd133a-7624-4cbc-b950-3fda5773310b">
+          id="cdcbe46f-7ccf-4dcd-9dc5-0fcde284fa2d">
         <bounds
             x="48"
             y="48"
@@ -409,8 +410,8 @@
           href="RealizationRelationship_a106c508-4bcb-4072-a84d-6770bcad05a8.xml#a106c508-4bcb-4072-a84d-6770bcad05a8"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="48"
+        x="828"
+        y="192"
         width="241"
         height="61"/>
     <children
@@ -443,8 +444,8 @@
           href="RealizationRelationship_24b053f4-5a55-433c-9bc0-546d4f84db33.xml#24b053f4-5a55-433c-9bc0-546d4f84db33"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="108"
+        x="828"
+        y="252"
         width="241"
         height="67"/>
     <children
@@ -477,8 +478,8 @@
           href="RealizationRelationship_3c02430f-5611-4398-a053-c9df5f0152ad.xml#3c02430f-5611-4398-a053-c9df5f0152ad"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="174"
+        x="828"
+        y="318"
         width="241"
         height="73"/>
     <children
@@ -497,5 +498,40 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_93dabe10-3996-4401-8ca6-317e0be1ea02.xml#93dabe10-3996-4401-8ca6-317e0be1ea02"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d128e129-c9fd-4ebc-9b2d-659a7358c23c">
+    <bounds
+        x="828"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_ce6c2b5f-c6e3-4d6f-ba59-f6945d427a8b.xml#ce6c2b5f-c6e3-4d6f-ba59-f6945d427a8b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cebfc849-8fd9-4302-9760-f8f110ef3ebd">
+    <bounds
+        x="960"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_a11c3a74-0b9d-425d-8f61-78a40353b2aa.xml#a11c3a74-0b9d-425d-8f61-78a40353b2aa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="387f82ee-4215-4827-8417-4b3d03841664"
+      textAlignment="1"
+      content="Problem z klientami, którzy są zinetgrowani do starego api dostępowego&#xD;&#xA;&#xD;&#xA;Problem z klientami, którzy mają specyficzne konfiguracje WebTrackera&#xD;&#xA;">
+    <bounds
+        x="1092"
+        y="192"
+        width="193"
+        height="103"/>
   </children>
 </archimate:ArchimateDiagramModel>

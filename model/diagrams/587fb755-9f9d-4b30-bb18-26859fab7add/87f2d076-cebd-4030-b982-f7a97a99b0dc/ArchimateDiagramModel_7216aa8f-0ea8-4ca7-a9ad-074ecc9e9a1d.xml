@@ -217,15 +217,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2ea502b3-2536-4d22-a1fa-8ad33c8be985">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="fadfeaa1-ce60-4924-9802-389343d3b830"
-          source="2ea502b3-2536-4d22-a1fa-8ad33c8be985"
-          target="7d824adb-2ae9-4521-9b03-534e21c310ab">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_c10809d8-49df-4f8f-907c-5db7dcf04e98.xml#c10809d8-49df-4f8f-907c-5db7dcf04e98"/>
-      </sourceConnections>
       <bounds
           x="36"
           y="60"
@@ -233,8 +224,7 @@
           height="133"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="7d824adb-2ae9-4521-9b03-534e21c310ab"
-          targetConnections="fadfeaa1-ce60-4924-9802-389343d3b830">
+          id="7d824adb-2ae9-4521-9b03-534e21c310ab">
         <bounds
             x="48"
             y="48"
@@ -486,5 +476,27 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_d8b344ce-6ce0-4c91-8ee1-a12254677dd3.xml#d8b344ce-6ce0-4c91-8ee1-a12254677dd3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1b68d8a4-1704-4fa3-bee7-0276ef039b5c"
+      textAlignment="1"
+      content="Który system dla których danych jest masterem.&#xD;&#xA;&#xD;&#xA;teraz masterem danych jest CDN a nie  w Truckerz-e.&#xD;&#xA;&#xD;&#xA;baza master w CDN.">
+    <bounds
+        x="1104"
+        y="360"
+        width="241"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c7850b62-05de-41f3-adaf-ddbbf9ab64ef"
+      textAlignment="1"
+      content="Dekompozycja SZOP-a">
+    <bounds
+        x="1104"
+        y="480"
+        width="217"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
