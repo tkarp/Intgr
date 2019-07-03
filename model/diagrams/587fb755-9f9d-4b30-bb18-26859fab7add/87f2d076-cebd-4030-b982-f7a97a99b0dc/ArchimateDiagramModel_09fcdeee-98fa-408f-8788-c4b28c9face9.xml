@@ -523,15 +523,4 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_a11c3a74-0b9d-425d-8f61-78a40353b2aa.xml#a11c3a74-0b9d-425d-8f61-78a40353b2aa"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="387f82ee-4215-4827-8417-4b3d03841664"
-      textAlignment="1"
-      content="Problem z klientami, którzy są zinetgrowani do starego api dostępowego&#xD;&#xA;&#xD;&#xA;Problem z klientami, którzy mają specyficzne konfiguracje WebTrackera&#xD;&#xA;">
-    <bounds
-        x="1092"
-        y="192"
-        width="193"
-        height="103"/>
-  </children>
 </archimate:ArchimateDiagramModel>
