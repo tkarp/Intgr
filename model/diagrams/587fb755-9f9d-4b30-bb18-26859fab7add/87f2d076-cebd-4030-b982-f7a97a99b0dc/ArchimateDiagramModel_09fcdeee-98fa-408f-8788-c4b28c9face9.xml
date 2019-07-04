@@ -1,19 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New TMS Application Architecture"
+    name="TMS Application Architecture"
     id="09fcdeee-98fa-408f-8788-c4b28c9face9">
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="d7c0f035-1234-4a1d-aaf3-32bc4af36bcd"
-      name="Problem istniejącej integracji z klientami zewn."
-      textAlignment="1">
-    <bounds
-        x="804"
-        y="24"
-        width="529"
-        height="145"/>
-  </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="092ab95e-319d-4393-8d75-a2a410837b29">
@@ -410,8 +399,8 @@
           href="RealizationRelationship_a106c508-4bcb-4072-a84d-6770bcad05a8.xml#a106c508-4bcb-4072-a84d-6770bcad05a8"/>
     </sourceConnections>
     <bounds
-        x="828"
-        y="192"
+        x="815"
+        y="36"
         width="241"
         height="61"/>
     <children
@@ -503,8 +492,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d128e129-c9fd-4ebc-9b2d-659a7358c23c">
     <bounds
-        x="828"
-        y="96"
+        x="936"
+        y="600"
         width="120"
         height="55"/>
     <archimateElement
@@ -515,12 +504,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cebfc849-8fd9-4302-9760-f8f110ef3ebd">
     <bounds
-        x="960"
-        y="96"
+        x="1176"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_a11c3a74-0b9d-425d-8f61-78a40353b2aa.xml#a11c3a74-0b9d-425d-8f61-78a40353b2aa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="deacee3a-f98f-40b1-a736-49a94da2360c">
+    <bounds
+        x="936"
+        y="672"
+        width="193"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_2943e14e-57d4-4f13-8f98-0d5b991b8d54.xml#2943e14e-57d4-4f13-8f98-0d5b991b8d54"/>
   </children>
 </archimate:ArchimateDiagramModel>
