@@ -60,10 +60,19 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_3450fece-5542-4d7e-9dfa-32fed2766067.xml#3450fece-5542-4d7e-9dfa-32fed2766067"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="dde272a5-7297-40cc-a380-2d93e974e800"
+        source="1bcce57f-3097-4f82-bf34-cf27b7e839ac"
+        target="ad741785-76bb-437b-9c4e-0f2d88ce05b0">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_c636a137-c5da-4708-b983-800a60cd632d.xml#c636a137-c5da-4708-b983-800a60cd632d"/>
+    </sourceConnections>
     <bounds
-        x="-24"
+        x="-30"
         y="24"
-        width="997"
+        width="1363"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -160,11 +169,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d4873c7e-7772-44ae-bce4-d03b357548be"
-      targetConnections="32e6c128-6690-484a-822c-a80a76440b1b c917b711-a5a0-46ae-acc5-c6e70c30f815 74d24df1-e894-4d9b-81f2-4503810108e7 ad43312d-bc1b-469e-92c8-10c98cadaed4 1343c526-10b4-4940-892c-98bcd2455396 9756abae-d61e-4560-b015-59a927edaa18">
+      targetConnections="32e6c128-6690-484a-822c-a80a76440b1b c917b711-a5a0-46ae-acc5-c6e70c30f815 74d24df1-e894-4d9b-81f2-4503810108e7 ad43312d-bc1b-469e-92c8-10c98cadaed4 1343c526-10b4-4940-892c-98bcd2455396 9756abae-d61e-4560-b015-59a927edaa18 ee2f266b-779b-4c54-b611-b449ba7af540">
     <bounds
-        x="-24"
-        y="288"
-        width="1009"
+        x="-30"
+        y="324"
+        width="1363"
         height="73"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -213,5 +222,38 @@
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_4a30191f-caac-467a-927f-947405f4d6f3.xml#4a30191f-caac-467a-927f-947405f4d6f3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="9cfd35d5-12be-4be9-b6c9-0a69321eef30"
+      name="Stop. May threatens Trucker stability"
+      textAlignment="1">
+    <bounds
+        x="972"
+        y="144"
+        width="361"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ad741785-76bb-437b-9c4e-0f2d88ce05b0"
+        targetConnections="dde272a5-7297-40cc-a380-2d93e974e800">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="ee2f266b-779b-4c54-b611-b449ba7af540"
+          source="ad741785-76bb-437b-9c4e-0f2d88ce05b0"
+          target="d4873c7e-7772-44ae-bce4-d03b357548be">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_64565e75-410b-4990-8959-de86673b56b0.xml#64565e75-410b-4990-8959-de86673b56b0"/>
+      </sourceConnections>
+      <bounds
+          x="12"
+          y="72"
+          width="325"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:WorkPackage"
+          href="WorkPackage_e6086507-d77f-4979-a84e-22bd4d09ffbe.xml#e6086507-d77f-4979-a84e-22bd4d09ffbe"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
