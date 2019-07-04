@@ -500,7 +500,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="8ae62949-acc6-446f-814c-64614f3e2273"
-      name="Deprecated"
+      name="Deprecation"
       textAlignment="1"
       borderType="1">
     <bounds

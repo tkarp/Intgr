@@ -72,7 +72,7 @@
     <bounds
         x="-30"
         y="24"
-        width="1363"
+        width="979"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -92,8 +92,8 @@
           href="TriggeringRelationship_48a4d6cc-e23f-4524-b534-12fdb36b65e6.xml#48a4d6cc-e23f-4524-b534-12fdb36b65e6"/>
     </sourceConnections>
     <bounds
-        x="-24"
-        y="168"
+        x="-30"
+        y="234"
         width="169"
         height="55"/>
     <archimateElement
@@ -114,7 +114,7 @@
           href="TriggeringRelationship_7ea37dd3-645a-40c5-a7f2-3c7d029b80f9.xml#7ea37dd3-645a-40c5-a7f2-3c7d029b80f9"/>
     </sourceConnections>
     <bounds
-        x="154"
+        x="72"
         y="168"
         width="169"
         height="55"/>
@@ -136,8 +136,8 @@
           href="TriggeringRelationship_849e0451-9c3b-4224-a0fa-5ea6eceff209.xml#849e0451-9c3b-4224-a0fa-5ea6eceff209"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="168"
+        x="180"
+        y="234"
         width="169"
         height="55"/>
     <archimateElement
@@ -158,8 +158,8 @@
           href="TriggeringRelationship_44a246c1-4622-4751-a768-55617787f42d.xml#44a246c1-4622-4751-a768-55617787f42d"/>
     </sourceConnections>
     <bounds
-        x="528"
-        y="168"
+        x="288"
+        y="144"
         width="169"
         height="55"/>
     <archimateElement
@@ -173,7 +173,7 @@
     <bounds
         x="-30"
         y="324"
-        width="1363"
+        width="979"
         height="73"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -193,9 +193,9 @@
           href="TriggeringRelationship_1409c1b6-b76e-4614-8525-38636b41e3e4.xml#1409c1b6-b76e-4614-8525-38636b41e3e4"/>
     </sourceConnections>
     <bounds
-        x="709"
-        y="168"
-        width="120"
+        x="420"
+        y="234"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -215,8 +215,8 @@
           href="TriggeringRelationship_0a79fc73-4807-436d-bf5d-268f49c81973.xml#0a79fc73-4807-436d-bf5d-268f49c81973"/>
     </sourceConnections>
     <bounds
-        x="840"
-        y="168"
+        x="528"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
@@ -227,11 +227,12 @@
       xsi:type="archimate:DiagramModelGroup"
       id="9cfd35d5-12be-4be9-b6c9-0a69321eef30"
       name="Stop. May threatens Trucker stability"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
-        x="972"
+        x="660"
         y="144"
-        width="361"
+        width="313"
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -247,10 +248,10 @@
             href="TriggeringRelationship_64565e75-410b-4990-8959-de86673b56b0.xml#64565e75-410b-4990-8959-de86673b56b0"/>
       </sourceConnections>
       <bounds
-          x="12"
-          y="72"
-          width="325"
-          height="55"/>
+          x="48"
+          y="48"
+          width="217"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_e6086507-d77f-4979-a84e-22bd4d09ffbe.xml#e6086507-d77f-4979-a84e-22bd4d09ffbe"/>
