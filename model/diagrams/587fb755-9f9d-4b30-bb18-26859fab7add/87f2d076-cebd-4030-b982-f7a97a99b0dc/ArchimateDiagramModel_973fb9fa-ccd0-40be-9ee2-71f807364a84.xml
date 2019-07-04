@@ -401,7 +401,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="11f2583c-d334-4a7c-a191-e3206dcf8a24"
       name="TMS Implemetation"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="324"
         y="204"

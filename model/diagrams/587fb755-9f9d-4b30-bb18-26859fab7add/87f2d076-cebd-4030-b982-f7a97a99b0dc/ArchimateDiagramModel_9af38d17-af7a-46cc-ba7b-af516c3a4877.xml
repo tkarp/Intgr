@@ -285,7 +285,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="12d4824e-565b-4cc2-b5a0-7af8e6b304a8"
       name="New SEH"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="772"
         y="336"
@@ -330,7 +331,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="95b91c15-3a79-42af-9a04-f8239da17097"
       name="ODS building"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="6"
         y="156"
@@ -375,7 +377,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="62e22acf-3326-4a17-891c-21a03dd934af"
       name="New Track &amp; Trace"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="772"
         y="12"
@@ -420,7 +423,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="5ae54b46-6042-4813-9a7b-e01734ce11af"
       name="Implementation DWH"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="6"
         y="12"
@@ -465,7 +469,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="9b9b6e5a-0bb0-4eb8-835d-38579e0d2306"
       name="New ShipX"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="772"
         y="156"
@@ -565,8 +570,9 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="b6038c51-fd9d-470e-94b2-c1cfcd4e0bfb"
-      name="New Central Logging System"
-      textAlignment="1">
+      name="Central Logging System"
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="772"
         y="528"

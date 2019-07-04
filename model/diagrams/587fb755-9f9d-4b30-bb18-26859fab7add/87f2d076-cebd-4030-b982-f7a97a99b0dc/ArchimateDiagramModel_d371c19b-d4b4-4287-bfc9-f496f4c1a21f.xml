@@ -1,13 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uncompromising TMS Application Architecture (copy)"
+    name="Uncompromising TMS Application Architecture"
     id="d371c19b-d4b4-4287-bfc9-f496f4c1a21f">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="a2340762-15e9-4913-bd78-6c1f4845ad4e"
       name="Big Bang Implementation"
-      textAlignment="1">
+      textAlignment="1"
+      borderType="1">
     <bounds
         x="420"
         y="30"
