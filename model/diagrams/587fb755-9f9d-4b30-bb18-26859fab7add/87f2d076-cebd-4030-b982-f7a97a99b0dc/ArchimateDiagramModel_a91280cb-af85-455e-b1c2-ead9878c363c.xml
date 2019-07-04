@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate View"
+    id="a91280cb-af85-455e-b1c2-ead9878c363c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f16ddc62-93d3-4f86-b284-a01bf05284c8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="75f7110d-70c6-485c-a78e-9daacf19b236"
+        source="f16ddc62-93d3-4f86-b284-a01bf05284c8"
+        target="84bf35d7-b952-461b-ab8e-1b22723df5c3">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_eb61e8ac-6cbf-4f22-92d2-bed5c22100ef.xml#eb61e8ac-6cbf-4f22-92d2-bed5c22100ef"/>
+    </sourceConnections>
+    <bounds
+        x="420"
+        y="96"
+        width="361"
+        height="109"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="84bf35d7-b952-461b-ab8e-1b22723df5c3"
+        targetConnections="75f7110d-70c6-485c-a78e-9daacf19b236">
+      <bounds
+          x="48"
+          y="36"
+          width="253"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_8bbe9e96-7ca4-4282-b318-846e3327aae1.xml#8bbe9e96-7ca4-4282-b318-846e3327aae1"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_067219d5-decb-44af-b096-3f97f6b85879.xml#067219d5-decb-44af-b096-3f97f6b85879"/>
+  </children>
+</archimate:ArchimateDiagramModel>
