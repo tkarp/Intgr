@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bcb8f908-1871-437f-8914-af53d08779da"
-      targetConnections="01476bdd-0d61-484c-aac8-163aaab5273e c8868b50-2faa-40f1-992f-981e645d373a">
+      targetConnections="01476bdd-0d61-484c-aac8-163aaab5273e">
     <bounds
         x="-28"
         y="264"
@@ -30,8 +30,8 @@
           href="TriggeringRelationship_2c779611-efcf-4880-8465-cf805297b02e.xml#2c779611-efcf-4880-8465-cf805297b02e"/>
     </sourceConnections>
     <bounds
-        x="-24"
-        y="120"
+        x="96"
+        y="108"
         width="361"
         height="64"/>
     <archimateElement
@@ -50,15 +50,6 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_e2e173f6-8b68-4eaf-926b-e44fb3419678.xml#e2e173f6-8b68-4eaf-926b-e44fb3419678"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7c2c953e-52e6-40f9-9e42-14195e31dfab"
-        source="8b8d2457-92b1-49d3-9a97-0973202ea41a"
-        target="fbb739cb-2fe2-44b3-aa55-d417a53cfc6e">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_de5ea1d9-30ea-46dc-81d5-f378788d4e7b.xml#de5ea1d9-30ea-46dc-81d5-f378788d4e7b"/>
-    </sourceConnections>
     <bounds
         x="-24"
         y="12"
@@ -67,27 +58,5 @@
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_ad71bb7c-ca61-4dd6-97d8-5c7e1f5af920.xml#ad71bb7c-ca61-4dd6-97d8-5c7e1f5af920"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="fbb739cb-2fe2-44b3-aa55-d417a53cfc6e"
-      targetConnections="7c2c953e-52e6-40f9-9e42-14195e31dfab">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c8868b50-2faa-40f1-992f-981e645d373a"
-        source="fbb739cb-2fe2-44b3-aa55-d417a53cfc6e"
-        target="bcb8f908-1871-437f-8914-af53d08779da">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_81a975c5-50d3-45ea-864f-090dc8c159c5.xml#81a975c5-50d3-45ea-864f-090dc8c159c5"/>
-    </sourceConnections>
-    <bounds
-        x="360"
-        y="120"
-        width="277"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:WorkPackage"
-        href="WorkPackage_a64a5226-ee41-4b0c-8ef9-57ef472b1a5a.xml#a64a5226-ee41-4b0c-8ef9-57ef472b1a5a"/>
   </children>
 </archimate:ArchimateDiagramModel>

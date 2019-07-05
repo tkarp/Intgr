@@ -52,7 +52,7 @@
     <bounds
         x="12"
         y="228"
-        width="241"
+        width="277"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -75,11 +75,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="5f520199-6cfb-4319-9f3e-063e3fe318b0"
       textAlignment="1"
-      content="Example">
+      content="Notation Sample"
+      borderType="1">
     <bounds
         x="24"
         y="168"
-        width="229"
+        width="265"
         height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -412,7 +412,7 @@
     <bounds
         x="330"
         y="372"
-        width="361"
+        width="367"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -474,7 +474,7 @@
     <bounds
         x="-72"
         y="492"
-        width="421"
+        width="379"
         height="190"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -489,9 +489,9 @@
             href="RealizationRelationship_96961daa-583b-4301-b522-6436975dcbd6.xml#96961daa-583b-4301-b522-6436975dcbd6"/>
       </sourceConnections>
       <bounds
-          x="12"
-          y="69"
-          width="361"
+          x="24"
+          y="48"
+          width="337"
           height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -514,13 +514,13 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="2e26b946-05a2-48c9-8a94-4b674aacbc44"
-      name="YMS Implementation"
+      name="Gate &amp; Traffic Mgmt Implementation"
       textAlignment="1"
       borderType="1">
     <bounds
-        x="360"
+        x="330"
         y="492"
-        width="349"
+        width="367"
         height="188"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -566,7 +566,7 @@
     <bounds
         x="732"
         y="492"
-        width="361"
+        width="469"
         height="188"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -581,16 +581,16 @@
             href="RealizationRelationship_e2a54237-5946-4d5e-b1ec-a5c9715d3fe5.xml#e2a54237-5946-4d5e-b1ec-a5c9715d3fe5"/>
       </sourceConnections>
       <bounds
-          x="12"
-          y="72"
-          width="313"
-          height="97"/>
+          x="72"
+          y="48"
+          width="337"
+          height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="7e0314ab-a787-4e73-a96f-7b4aab2b38af"
           targetConnections="30839f57-26ee-4662-8a14-827e4a105223">
         <bounds
-            x="48"
+            x="72"
             y="36"
             width="192"
             height="49"/>
