@@ -8,8 +8,8 @@
       id="bcb8f908-1871-437f-8914-af53d08779da"
       targetConnections="01476bdd-0d61-484c-aac8-163aaab5273e c8868b50-2faa-40f1-992f-981e645d373a">
     <bounds
-        x="-20"
-        y="216"
+        x="-28"
+        y="264"
         width="681"
         height="61"/>
     <archimateElement
@@ -31,7 +31,7 @@
     </sourceConnections>
     <bounds
         x="-24"
-        y="99"
+        y="120"
         width="361"
         height="64"/>
     <archimateElement
@@ -83,7 +83,7 @@
     </sourceConnections>
     <bounds
         x="360"
-        y="99"
+        y="120"
         width="277"
         height="73"/>
     <archimateElement
