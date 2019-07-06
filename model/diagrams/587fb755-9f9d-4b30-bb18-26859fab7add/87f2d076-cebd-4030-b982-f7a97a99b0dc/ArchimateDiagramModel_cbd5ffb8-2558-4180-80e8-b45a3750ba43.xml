@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Billing Application Architecture"
+    name="Prudent - Billing Application Architecture"
     id="cbd5ffb8-2558-4180-80e8-b45a3750ba43">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

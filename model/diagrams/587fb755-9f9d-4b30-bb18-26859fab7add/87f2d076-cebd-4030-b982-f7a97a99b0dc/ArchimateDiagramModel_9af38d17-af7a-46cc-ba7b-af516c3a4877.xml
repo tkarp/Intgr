@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="The Nearest Application Architecture"
+    name="Common Application Architecture"
     id="9af38d17-af7a-46cc-ba7b-af516c3a4877">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -52,8 +52,7 @@
           href="RealizationRelationship_8cd5e50b-ba5b-4dc6-9e62-d67485105dd9.xml#8cd5e50b-ba5b-4dc6-9e62-d67485105dd9"/>
     </sourceConnections>
     <bounds
-        x="432"
-        y="24"
+        x="-28"
         width="321"
         height="277"/>
     <children
@@ -183,8 +182,8 @@
           href="RealizationRelationship_1dd83480-c7e3-4c74-9fcd-ccd1773b611b.xml#1dd83480-c7e3-4c74-9fcd-ccd1773b611b"/>
     </sourceConnections>
     <bounds
-        x="432"
-        y="324"
+        x="-28"
+        y="312"
         width="321"
         height="385"/>
     <children
@@ -288,10 +287,10 @@
       textAlignment="1"
       borderType="1">
     <bounds
-        x="772"
-        y="336"
+        x="312"
+        y="300"
         width="345"
-        height="169"/>
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="dd0712a7-2944-4baf-ab9b-789d968694c3">
@@ -307,7 +306,7 @@
       <bounds
           x="12"
           y="36"
-          width="325"
+          width="301"
           height="85"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -316,7 +315,7 @@
         <bounds
             x="36"
             y="36"
-            width="277"
+            width="241"
             height="37"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -330,13 +329,13 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="95b91c15-3a79-42af-9a04-f8239da17097"
-      name="ODS building"
+      name="ODS Implementation "
       textAlignment="1"
       borderType="1">
     <bounds
-        x="6"
-        y="156"
-        width="403"
+        x="312"
+        y="816"
+        width="349"
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -351,18 +350,18 @@
             href="RealizationRelationship_ea532618-e338-44f0-b1d7-023cc36bc9d1.xml#ea532618-e338-44f0-b1d7-023cc36bc9d1"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="36"
-          width="373"
+          width="313"
           height="97"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="0f957696-983c-4c66-84ac-e83c2b7ad7c6"
           targetConnections="aa8aedf8-5270-4b50-981c-47bc2f24e805">
         <bounds
-            x="36"
-            y="48"
-            width="289"
+            x="24"
+            y="36"
+            width="265"
             height="37"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -380,8 +379,7 @@
       textAlignment="1"
       borderType="1">
     <bounds
-        x="772"
-        y="12"
+        x="312"
         width="333"
         height="133"/>
     <children
@@ -399,7 +397,7 @@
       <bounds
           x="12"
           y="36"
-          width="268"
+          width="301"
           height="85"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -408,7 +406,7 @@
         <bounds
             x="36"
             y="36"
-            width="208"
+            width="241"
             height="37"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -422,13 +420,13 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="5ae54b46-6042-4813-9a7b-e01734ce11af"
-      name="Implementation DWH"
+      name="DWH Implementation "
       textAlignment="1"
       borderType="1">
     <bounds
-        x="6"
-        y="12"
-        width="403"
+        x="312"
+        y="672"
+        width="349"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -443,16 +441,16 @@
             href="RealizationRelationship_5cb49501-3154-41cb-9bcf-8d8df92732ea.xml#5cb49501-3154-41cb-9bcf-8d8df92732ea"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="36"
-          width="373"
+          width="301"
           height="85"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="868e7380-1d96-4f1c-8bb7-550f9f34d2b2"
           targetConnections="e1788455-d7be-44d7-9c0e-947d7e967cae">
         <bounds
-            x="72"
+            x="36"
             y="36"
             width="217"
             height="43"/>
@@ -472,10 +470,10 @@
       textAlignment="1"
       borderType="1">
     <bounds
-        x="772"
-        y="156"
+        x="312"
+        y="144"
         width="337"
-        height="169"/>
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b0d7c535-c16c-4c07-9569-643998c2613d">
@@ -489,18 +487,18 @@
             href="RealizationRelationship_25b4b9ce-caf3-41e8-935a-05a28cbb4948.xml#25b4b9ce-caf3-41e8-935a-05a28cbb4948"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="36"
-          width="277"
+          width="301"
           height="97"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="ae5a45a8-b48d-40f3-ad3e-e42bf9b7c1b3"
           targetConnections="055c721a-51fd-439c-9a64-c629ec1492c1">
         <bounds
-            x="60"
+            x="36"
             y="36"
-            width="120"
+            width="241"
             height="43"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -533,8 +531,8 @@
           href="RealizationRelationship_b9bf0e02-a733-4eba-980a-8af30180b849.xml#b9bf0e02-a733-4eba-980a-8af30180b849"/>
     </sourceConnections>
     <bounds
-        x="432"
-        y="732"
+        x="-28"
+        y="720"
         width="321"
         height="169"/>
     <children
@@ -574,8 +572,8 @@
       textAlignment="1"
       borderType="1">
     <bounds
-        x="772"
-        y="528"
+        x="312"
+        y="456"
         width="345"
         height="205"/>
     <children
@@ -603,7 +601,7 @@
             x="36"
             y="48"
             width="241"
-            height="73"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_d64ae871-6c0c-455b-9b31-8d7adac4cdb7.xml#d64ae871-6c0c-455b-9b31-8d7adac4cdb7"/>

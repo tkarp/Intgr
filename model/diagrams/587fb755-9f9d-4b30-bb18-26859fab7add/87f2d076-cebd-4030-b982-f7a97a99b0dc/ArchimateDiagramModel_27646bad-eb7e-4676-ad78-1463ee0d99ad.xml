@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer Portal Application Architecture "
+    name="Prudent - Customer Portal Application Architecture "
     id="27646bad-eb7e-4676-ad78-1463ee0d99ad">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -54,7 +54,7 @@
       <bounds
           x="30"
           y="84"
-          width="241"
+          width="271"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -67,7 +67,7 @@
       <bounds
           x="30"
           y="132"
-          width="241"
+          width="271"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -80,7 +80,7 @@
       <bounds
           x="30"
           y="180"
-          width="241"
+          width="271"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -93,7 +93,7 @@
       <bounds
           x="30"
           y="228"
-          width="241"
+          width="271"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -161,9 +161,9 @@
         id="cf26071a-a458-4672-9121-143009e15866"
         targetConnections="3d31d6cd-ee74-4a56-ac10-4fe18ae52d0b">
       <bounds
-          x="48"
+          x="24"
           y="240"
-          width="241"
+          width="265"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -174,9 +174,9 @@
         id="37c8eef4-4748-4193-857b-3843f4d797b6"
         targetConnections="af7adfcb-9365-4719-a850-c0ba721a4a89">
       <bounds
-          x="48"
+          x="24"
           y="144"
-          width="241"
+          width="265"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -187,9 +187,9 @@
         id="1406e405-22cf-4722-9785-a2a05a4e6f60"
         targetConnections="19a3392b-a5a6-44e7-9dda-986d241918db">
       <bounds
-          x="48"
+          x="24"
           y="192"
-          width="241"
+          width="265"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -200,9 +200,9 @@
         id="35410cb5-067f-4a2a-adf1-c9407c007bc4"
         targetConnections="463a9269-6cc0-4a0a-afb3-c7fb1c7a1b38">
       <bounds
-          x="48"
+          x="24"
           y="36"
-          width="241"
+          width="265"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -213,9 +213,9 @@
         id="a7a5e6b9-89f8-42ff-974d-e83b6d7a4b73"
         targetConnections="e3d00d01-fb48-4c80-bcc8-89f6da8f9d58">
       <bounds
-          x="48"
+          x="24"
           y="84"
-          width="241"
+          width="265"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
