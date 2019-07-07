@@ -4,6 +4,18 @@
     name="Prudent - TMS Application Architecture"
     id="973fb9fa-ccd0-40be-9ee2-71f807364a84">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="1a5f7e78-0c30-4dcd-824a-b492a231fbe3"
+      name="Sortin System Implementation"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="312"
+        y="372"
+        width="385"
+        height="205"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="788dd176-5cf1-48d2-9dd1-c8843376c5af">
     <sourceConnections
@@ -167,7 +179,7 @@
     <bounds
         x="-78"
         y="348"
-        width="385"
+        width="379"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -404,9 +416,9 @@
       textAlignment="1"
       borderType="1">
     <bounds
-        x="324"
+        x="318"
         y="204"
-        width="373"
+        width="379"
         height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -456,9 +468,9 @@
           href="RealizationRelationship_eb61e8ac-6cbf-4f22-92d2-bed5c22100ef.xml#eb61e8ac-6cbf-4f22-92d2-bed5c22100ef"/>
     </sourceConnections>
     <bounds
-        x="330"
-        y="372"
-        width="361"
+        x="-72"
+        y="492"
+        width="373"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -476,5 +488,39 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_067219d5-decb-44af-b096-3f97f6b85879.xml#067219d5-decb-44af-b096-3f97f6b85879"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4fabd89a-cbb5-45fb-ad40-907d45e28a4b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="733c73e3-a3d5-475a-803f-75b55196ab1f"
+        source="4fabd89a-cbb5-45fb-ad40-907d45e28a4b"
+        target="0e011775-d43d-4c81-87b7-985a83b0df32">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_c12b5967-2721-4287-907e-d185ea54e1ca.xml#c12b5967-2721-4287-907e-d185ea54e1ca"/>
+    </sourceConnections>
+    <bounds
+        x="324"
+        y="420"
+        width="325"
+        height="118"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="0e011775-d43d-4c81-87b7-985a83b0df32"
+        targetConnections="733c73e3-a3d5-475a-803f-75b55196ab1f">
+      <bounds
+          x="24"
+          y="48"
+          width="277"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_f6e08a6c-4478-4df8-abbb-e263a3f2387e.xml#f6e08a6c-4478-4df8-abbb-e263a3f2387e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_4b9d829f-2565-497e-8bc8-963b5e5bafa6.xml#4b9d829f-2565-497e-8bc8-963b5e5bafa6"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trucker Mobile App"
-    id="408d91d5-cc54-4c18-9ff4-2b1bca294736"/>
+    id="408d91d5-cc54-4c18-9ff4-2b1bca294736"
+    documentation="Mobile GUI for Trucker  external users "/>

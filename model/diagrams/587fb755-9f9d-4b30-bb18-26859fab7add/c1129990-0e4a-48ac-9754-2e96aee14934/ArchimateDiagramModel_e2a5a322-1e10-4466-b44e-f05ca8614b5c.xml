@@ -36,15 +36,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6fc99c9e-4051-4943-b285-ee09aa1389fc"
-        source="3c2d9438-78e8-4310-a19f-f4bc3207064d"
-        target="1bb68990-a81e-4720-a7c6-3af8e123fdf6">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_bc29c91a-d7be-40fc-b85f-444b5c4a7f54.xml#bc29c91a-d7be-40fc-b85f-444b5c4a7f54"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="ea44f6db-5b24-4fc1-ae25-ff53115a16ac"
         source="3c2d9438-78e8-4310-a19f-f4bc3207064d"
         target="033aed2e-25c9-4e4f-a886-49ae435473cf">
@@ -314,7 +305,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fe227277-15bb-4781-a0f2-d2772703568f"
-      targetConnections="4d1e2992-0732-4b57-b29d-e5cdb1f16d6e 0c06d2fe-f9d6-432b-a63c-45fb3957619d 22362327-cbc3-4e3d-9f1c-99b065801b18 ce77d80c-6bd7-4af6-86a0-42e3675dc39c 29465f0d-a150-4bd4-afdc-826b70c35bbd">
+      targetConnections="4d1e2992-0732-4b57-b29d-e5cdb1f16d6e 0c06d2fe-f9d6-432b-a63c-45fb3957619d 22362327-cbc3-4e3d-9f1c-99b065801b18 29465f0d-a150-4bd4-afdc-826b70c35bbd">
     <bounds
         x="-6"
         y="672"
@@ -370,17 +361,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1bb68990-a81e-4720-a7c6-3af8e123fdf6"
-      targetConnections="6fc99c9e-4051-4943-b285-ee09aa1389fc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="ce77d80c-6bd7-4af6-86a0-42e3675dc39c"
-        source="1bb68990-a81e-4720-a7c6-3af8e123fdf6"
-        target="fe227277-15bb-4781-a0f2-d2772703568f">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_370a3fdd-3874-48ad-8b73-08fa276b3142.xml#370a3fdd-3874-48ad-8b73-08fa276b3142"/>
-    </sourceConnections>
+      id="1bb68990-a81e-4720-a7c6-3af8e123fdf6">
     <bounds
         x="576"
         y="445"
