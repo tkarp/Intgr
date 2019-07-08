@@ -10,7 +10,7 @@
     <bounds
         x="-28"
         y="264"
-        width="681"
+        width="509"
         height="61"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -30,9 +30,9 @@
           href="TriggeringRelationship_2c779611-efcf-4880-8465-cf805297b02e.xml#2c779611-efcf-4880-8465-cf805297b02e"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="108"
-        width="361"
+        x="108"
+        y="120"
+        width="229"
         height="64"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -53,7 +53,7 @@
     <bounds
         x="-24"
         y="12"
-        width="673"
+        width="493"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Plateau"
