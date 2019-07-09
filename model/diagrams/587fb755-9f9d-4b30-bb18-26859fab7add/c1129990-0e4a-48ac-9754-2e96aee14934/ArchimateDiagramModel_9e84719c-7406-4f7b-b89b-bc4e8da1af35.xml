@@ -101,7 +101,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="34c4cfbb-6184-4d01-bb9e-e392d17b0673"
-      targetConnections="9a22b720-39a9-4429-a321-ea595f23388c">
+      targetConnections="9a22b720-39a9-4429-a321-ea595f23388c 39cb5f5e-308c-4994-8c7b-5525e2324922">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e364ffc6-b441-4494-a45d-1963ad519379"
@@ -279,6 +279,15 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_e2e173f6-8b68-4eaf-926b-e44fb3419678.xml#e2e173f6-8b68-4eaf-926b-e44fb3419678"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="87899496-34f5-4147-8db2-ea9d1407b31a"
+        source="d4fd99ec-d7ca-41ea-b2dc-10b25e41250c"
+        target="e20e0bd9-e623-4020-8043-7588aa91af80">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_4e6c297c-10e8-421a-981e-4a7dc40697f0.xml#4e6c297c-10e8-421a-981e-4a7dc40697f0"/>
+    </sourceConnections>
     <bounds
         x="-42"
         y="216"
@@ -388,5 +397,27 @@
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_215c6e0a-355e-4ac8-a5ae-348587c17c7e.xml#215c6e0a-355e-4ac8-a5ae-348587c17c7e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e20e0bd9-e623-4020-8043-7588aa91af80"
+      targetConnections="87899496-34f5-4147-8db2-ea9d1407b31a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="39cb5f5e-308c-4994-8c7b-5525e2324922"
+        source="e20e0bd9-e623-4020-8043-7588aa91af80"
+        target="34c4cfbb-6184-4d01-bb9e-e392d17b0673">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_77bb0e18-f7c0-46d8-a15a-398bdccea56b.xml#77bb0e18-f7c0-46d8-a15a-398bdccea56b"/>
+    </sourceConnections>
+    <bounds
+        x="336"
+        y="324"
+        width="349"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_749d744c-fc5a-442c-9b71-e4370dcbd4e2.xml#749d744c-fc5a-442c-9b71-e4370dcbd4e2"/>
   </children>
 </archimate:ArchimateDiagramModel>
