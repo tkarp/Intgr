@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gate &amp; Traffic Mgmt System"
-    id="7959604d-9ca1-4b6c-812c-da0e3aac0484"/>
+    name="YMS System"
+    id="7959604d-9ca1-4b6c-812c-da0e3aac0484"
+    documentation="Yard Mgmt System"/>

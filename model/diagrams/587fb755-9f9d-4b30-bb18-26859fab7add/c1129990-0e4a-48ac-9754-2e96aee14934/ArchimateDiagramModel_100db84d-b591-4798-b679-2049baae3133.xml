@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Roadmap - Common Application Architecture"
+    name="Common Application Architecture"
     id="100db84d-b591-4798-b679-2049baae3133">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -238,7 +238,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="9cfd35d5-12be-4be9-b6c9-0a69321eef30"
-      name="Stop. May threatens Trucker stability"
+      name="Dedicated System. Not in Trucker "
       textAlignment="1"
       borderType="1">
     <bounds
