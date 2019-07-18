@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prudent - CRM Application Architecture"
+    name="Prudent - CRM"
     id="7216aa8f-0ea8-4ca7-a9ad-074ecc9e9a1d">
   <children
       xsi:type="archimate:DiagramModelGroup"

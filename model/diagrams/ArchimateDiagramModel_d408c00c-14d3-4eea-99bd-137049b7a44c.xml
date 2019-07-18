@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capabilities Model"
+    name="Capability Model"
     id="d408c00c-14d3-4eea-99bd-137049b7a44c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

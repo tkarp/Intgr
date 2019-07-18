@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Common Application Architecture"
+    name="Common"
     id="9af38d17-af7a-46cc-ba7b-af516c3a4877">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
