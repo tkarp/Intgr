@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Current "
+    name="Current Architecture"
     id="58cd769a-5189-4d5b-a497-3861669fa55e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prudent - Billing and Portal"
+    name="CRM First - Billing and Portal"
     id="093ec31e-bf77-44ac-9bd6-9b54a02692ea">
   <children
       xsi:type="archimate:DiagramModelGroup"
