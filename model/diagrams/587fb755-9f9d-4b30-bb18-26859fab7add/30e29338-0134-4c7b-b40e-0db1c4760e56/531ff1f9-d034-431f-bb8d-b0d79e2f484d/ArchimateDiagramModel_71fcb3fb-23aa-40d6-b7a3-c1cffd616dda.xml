@@ -11,7 +11,7 @@
       borderType="1">
     <bounds
         x="-24"
-        y="696"
+        y="768"
         width="550"
         height="109"/>
     <children
@@ -219,7 +219,7 @@
       targetConnections="bc7b6596-562b-4fa4-8022-904de1f94f62 04de2950-0e5b-4068-9925-b23ecfba3e5f">
     <bounds
         x="-37"
-        y="876"
+        y="924"
         width="874"
         height="55"/>
     <archimateElement
