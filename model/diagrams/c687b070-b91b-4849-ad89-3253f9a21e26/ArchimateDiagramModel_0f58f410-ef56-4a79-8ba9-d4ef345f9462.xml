@@ -18,7 +18,7 @@
     <bounds
         x="-6"
         y="12"
-        width="370"
+        width="463"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -30,7 +30,7 @@
       targetConnections="443007c2-c994-4d0f-a178-d6eb80cef149">
     <bounds
         y="288"
-        width="364"
+        width="445"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Plateau"
