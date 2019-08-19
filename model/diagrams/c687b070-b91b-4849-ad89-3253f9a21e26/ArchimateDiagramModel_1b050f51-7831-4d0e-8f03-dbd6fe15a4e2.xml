@@ -30,8 +30,8 @@
           href="AssociationRelationship_18413d74-8d90-4399-a368-cb114d0c2761.xml#18413d74-8d90-4399-a368-cb114d0c2761"/>
     </sourceConnections>
     <bounds
-        x="85"
-        y="132"
+        x="84"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -51,8 +51,8 @@
           href="RealizationRelationship_15e10711-8c93-4bef-9f5c-b566ead019a8.xml#15e10711-8c93-4bef-9f5c-b566ead019a8"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="276"
+        x="84"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement

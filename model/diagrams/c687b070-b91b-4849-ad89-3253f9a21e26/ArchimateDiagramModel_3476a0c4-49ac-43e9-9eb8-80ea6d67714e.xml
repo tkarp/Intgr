@@ -1,44 +1,43 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Notation 1"
-    id="fb4fb474-4654-4a44-82b2-2c5f2660a397">
+    name="Notation (copy)"
+    id="3476a0c4-49ac-43e9-9eb8-80ea6d67714e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e8a8fcbc-9c6e-4537-a9be-38de94056bf8"
+      id="5aec4da1-abad-427e-905a-57719359bc95"
       font="1|Segoe UI Semibold|16.2|0|WINDOWS|1|-27|0|0|0|600|0|0|0|-18|3|2|1|34|Segoe UI Semibold"
-      fillColor="#c0c0c0">
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c6feea12-60a6-4591-a3a2-4f7c9dd6521b"
-        source="e8a8fcbc-9c6e-4537-a9be-38de94056bf8"
-        target="0b63f5b9-78f4-41e7-b9f3-6a2dbe9546cc">
+        id="369ec2b2-4a34-4787-a573-4b64648f6ad6"
+        source="5aec4da1-abad-427e-905a-57719359bc95"
+        target="c3a5e225-bfa4-4a27-94f9-70f8853f316a">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_298e20be-6e9d-4dec-8604-5ab44f30906b.xml#298e20be-6e9d-4dec-8604-5ab44f30906b"/>
+          href="RealizationRelationship_c1d6dbd6-4d80-41b1-8c53-61ff52aa773c.xml#c1d6dbd6-4d80-41b1-8c53-61ff52aa773c"/>
     </sourceConnections>
     <bounds
+        x="12"
         y="12"
-        width="265"
+        width="277"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="0b63f5b9-78f4-41e7-b9f3-6a2dbe9546cc"
-        targetConnections="c6feea12-60a6-4591-a3a2-4f7c9dd6521b"
-        fontColor="#ffffff"
-        fillColor="#800040"
+        id="c3a5e225-bfa4-4a27-94f9-70f8853f316a"
+        targetConnections="369ec2b2-4a34-4787-a573-4b64648f6ad6"
         textPosition="1">
       <bounds
-          x="48"
+          x="72"
           y="48"
           width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
-          href="Capability_f8e0971d-85c0-4672-a40a-15aab6c090f4.xml#f8e0971d-85c0-4672-a40a-15aab6c090f4"/>
+          href="Capability_c4f2408c-5b54-4998-93f4-2854367f0d58.xml#c4f2408c-5b54-4998-93f4-2854367f0d58"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_507f23c0-f56a-484c-b1b5-ce620630c450.xml#507f23c0-f56a-484c-b1b5-ce620630c450"/>
+        href="ApplicationComponent_2ba9bc9b-467e-4ba8-a304-03fd7c690c81.xml#2ba9bc9b-467e-4ba8-a304-03fd7c690c81"/>
   </children>
 </archimate:ArchimateDiagramModel>
