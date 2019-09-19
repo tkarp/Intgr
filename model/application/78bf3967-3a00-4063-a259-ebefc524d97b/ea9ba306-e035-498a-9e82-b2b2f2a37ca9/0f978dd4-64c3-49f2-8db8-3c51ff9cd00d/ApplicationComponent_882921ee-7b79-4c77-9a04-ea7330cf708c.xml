@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SZOP Administrative Console"
+    name="SZOP Console"
     id="882921ee-7b79-4c77-9a04-ea7330cf708c"
     documentation="Web GUI for SZOp mgmt.">
   <properties
