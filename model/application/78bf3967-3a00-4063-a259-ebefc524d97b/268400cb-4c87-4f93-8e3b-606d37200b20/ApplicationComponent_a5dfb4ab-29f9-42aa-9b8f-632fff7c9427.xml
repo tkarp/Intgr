@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SEH"
+    name="Shipment Notification"
     id="a5dfb4ab-29f9-42aa-9b8f-632fff7c9427"
     documentation="Customer notification logic and content rendering">
   <properties
