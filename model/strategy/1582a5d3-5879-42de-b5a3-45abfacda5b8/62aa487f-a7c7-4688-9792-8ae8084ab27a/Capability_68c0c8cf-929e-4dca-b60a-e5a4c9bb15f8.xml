@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CPQ"
-    id="68c0c8cf-929e-4dca-b60a-e5a4c9bb15f8"/>
+    name="CPQ (Configure Price Quote)"
+    id="68c0c8cf-929e-4dca-b60a-e5a4c9bb15f8"
+    documentation="Configure Price Quote"/>
