@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OSS Parcel Machine System"
-    id="id-5942ab4c4bef49b895cbcb9c4a066f75"/>
+    name="SCMS"
+    id="id-5942ab4c4bef49b895cbcb9c4a066f75"
+    documentation="System Mgmt System"/>

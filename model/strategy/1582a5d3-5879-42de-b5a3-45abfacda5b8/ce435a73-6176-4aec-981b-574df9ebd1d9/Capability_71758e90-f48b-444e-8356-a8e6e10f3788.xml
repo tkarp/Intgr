@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Warehouse Mgmt"
-    id="71758e90-f48b-444e-8356-a8e6e10f3788"/>
+    name="Fulfillment &amp; Warehouse Mgmt"
+    id="71758e90-f48b-444e-8356-a8e6e10f3788"
+    documentation="Inhouse develeopment WMS&#xD;&#xA;Warehouse Mgmt&#xD;&#xA;Usługi magazynowe "/>

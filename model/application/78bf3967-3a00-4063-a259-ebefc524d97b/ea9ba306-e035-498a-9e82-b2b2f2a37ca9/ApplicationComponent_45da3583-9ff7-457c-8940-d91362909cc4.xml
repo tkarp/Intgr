@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Small Tracking"
+    name="Tracking System"
     id="45da3583-9ff7-457c-8940-d91362909cc4"
     documentation="The data source for the Track and Trace">
   <properties

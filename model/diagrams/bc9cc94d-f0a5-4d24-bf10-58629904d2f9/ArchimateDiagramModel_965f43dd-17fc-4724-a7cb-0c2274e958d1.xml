@@ -375,18 +375,6 @@
         y="252"
         width="565"
         height="121"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-ce411877babe45f68c62ae6c17a584c9">
-      <bounds
-          x="12"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-67522583dbed4144a6df85532e51e828.xml#id-67522583dbed4144a6df85532e51e828"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"

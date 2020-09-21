@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Trucker Client API"
+    name="Trucker Legacy API"
     id="a11c3a74-0b9d-425d-8f61-78a40353b2aa"
     documentation="Trucker access API for external users"/>
