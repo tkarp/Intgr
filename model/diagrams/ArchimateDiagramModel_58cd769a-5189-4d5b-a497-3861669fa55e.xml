@@ -214,7 +214,7 @@
     <bounds
         x="407"
         y="252"
-        width="385"
+        width="362"
         height="661"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -224,7 +224,7 @@
       <bounds
           x="30"
           y="396"
-          width="318"
+          width="309"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -238,7 +238,7 @@
       <bounds
           x="33"
           y="444"
-          width="318"
+          width="309"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -252,7 +252,7 @@
       <bounds
           x="36"
           y="48"
-          width="312"
+          width="309"
           height="35"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -266,7 +266,7 @@
       <bounds
           x="33"
           y="348"
-          width="312"
+          width="309"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -280,7 +280,7 @@
       <bounds
           x="36"
           y="156"
-          width="312"
+          width="309"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -294,7 +294,7 @@
       <bounds
           x="33"
           y="252"
-          width="300"
+          width="309"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -308,7 +308,7 @@
       <bounds
           x="36"
           y="96"
-          width="306"
+          width="309"
           height="46"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -322,7 +322,7 @@
       <bounds
           x="36"
           y="204"
-          width="306"
+          width="309"
           height="43"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -336,7 +336,7 @@
       <bounds
           x="33"
           y="300"
-          width="300"
+          width="309"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -350,7 +350,7 @@
       <bounds
           x="36"
           y="492"
-          width="315"
+          width="309"
           height="49"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -398,7 +398,7 @@
     </sourceConnections>
     <bounds
         x="803"
-        y="624"
+        y="504"
         width="373"
         height="193"/>
     <children
@@ -576,7 +576,7 @@
         x="804"
         y="252"
         width="372"
-        height="337"/>
+        height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1212d49efa3046c5a4a5c6d590ceda08"
@@ -586,7 +586,7 @@
           x="36"
           y="48"
           width="265"
-          height="67"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_e64423cb-700b-420e-8323-19907b8b8cbc.xml#e64423cb-700b-420e-8323-19907b8b8cbc"/>
@@ -597,10 +597,10 @@
         targetConnections="id-a6abc0b230a94cbc8489a2980e155bde"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="36"
-          y="216"
+          x="30"
+          y="144"
           width="277"
-          height="67"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-fe618238f71b4b4aa33250fb12794f1c.xml#id-fe618238f71b4b4aa33250fb12794f1c"/>
@@ -611,10 +611,10 @@
         targetConnections="id-3be910aceea2457985ad8b2f6d727c75"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="36"
-          y="132"
+          x="30"
+          y="96"
           width="277"
-          height="67"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-29c3b1d9eba64dc1bd80b7104e7c6ad6.xml#id-29c3b1d9eba64dc1bd80b7104e7c6ad6"/>
@@ -673,8 +673,8 @@
           href="RealizationRelationship_id-43324b9e67e94d48be240ea8c3c60d78.xml#id-43324b9e67e94d48be240ea8c3c60d78"/>
     </sourceConnections>
     <bounds
-        x="804"
-        y="840"
+        x="816"
+        y="720"
         width="372"
         height="133"/>
     <children
