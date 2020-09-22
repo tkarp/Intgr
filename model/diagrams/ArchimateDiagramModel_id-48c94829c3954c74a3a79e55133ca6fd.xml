@@ -10,15 +10,6 @@
       fillColor="#d8d8d8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f4b1064762a647e1a3bc74d3e9fd734b"
-        source="id-2bddfdc28a3c4c71a648cf67a40f5a07"
-        target="id-6f8c4c0129694a4eb2997114bab1cda9">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-30ba8ac756f242b38e9d5ec057d32fc2.xml#id-30ba8ac756f242b38e9d5ec057d32fc2"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7d8e20f616b849678651516f6889a32e"
         source="id-2bddfdc28a3c4c71a648cf67a40f5a07"
         target="id-cad90796c0d24a099197aa30cff91b25">
@@ -93,21 +84,7 @@
         x="432"
         y="444"
         width="541"
-        height="805"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6f8c4c0129694a4eb2997114bab1cda9"
-        targetConnections="id-f4b1064762a647e1a3bc74d3e9fd734b"
-        font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
-      <bounds
-          x="60"
-          y="456"
-          width="399"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_id-6e7a628371d24362bc5b419b49de271b.xml#id-6e7a628371d24362bc5b419b49de271b"/>
-    </children>
+        height="541"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0f45262dd8f040a78192c70d52409433"
@@ -143,7 +120,7 @@
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
           x="60"
-          y="552"
+          y="336"
           width="399"
           height="37"/>
       <archimateElement
@@ -157,7 +134,7 @@
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
           x="60"
-          y="648"
+          y="408"
           width="399"
           height="37"/>
       <archimateElement
@@ -185,7 +162,7 @@
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
           x="60"
-          y="216"
+          y="204"
           width="399"
           height="37"/>
       <archimateElement
@@ -199,7 +176,7 @@
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
           x="60"
-          y="348"
+          y="288"
           width="399"
           height="37"/>
       <archimateElement
@@ -212,8 +189,8 @@
         targetConnections="id-b1a44265582f4e89aef96970e500bd89"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="60"
-          y="756"
+          x="72"
+          y="456"
           width="399"
           height="37"/>
       <archimateElement
@@ -948,7 +925,7 @@
     </sourceConnections>
     <bounds
         x="432"
-        y="1260"
+        y="1008"
         width="541"
         height="133"/>
     <children
