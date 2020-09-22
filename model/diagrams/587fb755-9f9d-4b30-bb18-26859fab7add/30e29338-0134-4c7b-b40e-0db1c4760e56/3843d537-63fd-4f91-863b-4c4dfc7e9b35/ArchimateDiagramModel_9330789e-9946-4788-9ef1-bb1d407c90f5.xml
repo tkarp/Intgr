@@ -598,33 +598,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="96c79d3d-724d-46a5-b7ae-d25ea7894507">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="36824804-6460-4922-ba87-65fc0e1aaa3e"
-          source="96c79d3d-724d-46a5-b7ae-d25ea7894507"
-          target="120b3839-7592-409f-9853-a3580b142062">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_164d7e5d-44c4-4312-b8f3-53678f48b8d8.xml#164d7e5d-44c4-4312-b8f3-53678f48b8d8"/>
-      </sourceConnections>
       <bounds
           x="24"
           y="36"
           width="385"
           height="145"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="120b3839-7592-409f-9853-a3580b142062"
-          targetConnections="36824804-6460-4922-ba87-65fc0e1aaa3e">
-        <bounds
-            x="48"
-            y="48"
-            width="277"
-            height="37"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_b99b313a-500a-42e1-b403-9d0bf456645e.xml#b99b313a-500a-42e1-b403-9d0bf456645e"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_3cd56c07-5415-4012-bf3b-09a4af096ca0.xml#3cd56c07-5415-4012-bf3b-09a4af096ca0"/>
