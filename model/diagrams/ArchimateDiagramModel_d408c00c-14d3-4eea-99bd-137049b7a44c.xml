@@ -133,16 +133,16 @@
     <bounds
         x="1068"
         y="180"
-        width="745"
-        height="169"/>
+        width="409"
+        height="337"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-07b243a694694ee2915733414e01aba3"
         targetConnections="id-c6cf92e5c4fa4235b9b155ffaac43652"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="324"
-          y="48"
+          x="36"
+          y="132"
           width="277"
           height="73"/>
       <archimateElement
@@ -157,7 +157,7 @@
       <bounds
           x="36"
           y="48"
-          width="253"
+          width="277"
           height="73"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -192,7 +192,7 @@
     <bounds
         x="1068"
         y="-36"
-        width="745"
+        width="409"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
