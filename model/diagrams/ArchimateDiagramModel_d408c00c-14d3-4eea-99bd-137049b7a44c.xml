@@ -56,7 +56,7 @@
       <bounds
           x="24"
           y="36"
-          width="373"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -68,9 +68,9 @@
         targetConnections="26029259-4bd6-4105-8bce-e97436428ef9"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="408"
-          y="108"
-          width="229"
+          x="360"
+          y="120"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -84,7 +84,7 @@
       <bounds
           x="24"
           y="108"
-          width="373"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -96,9 +96,9 @@
         targetConnections="id-0cbfc46ca8b84f719a233e481df8f36d"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="408"
+          x="360"
           y="36"
-          width="229"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -133,18 +133,18 @@
     <bounds
         x="1068"
         y="180"
-        width="745"
-        height="169"/>
+        width="373"
+        height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-07b243a694694ee2915733414e01aba3"
         targetConnections="id-c6cf92e5c4fa4235b9b155ffaac43652"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="324"
-          y="48"
-          width="277"
-          height="73"/>
+          x="48"
+          y="144"
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-fe618238f71b4b4aa33250fb12794f1c.xml#id-fe618238f71b4b4aa33250fb12794f1c"/>
@@ -155,10 +155,10 @@
         targetConnections="id-203f601687ae4c10b324399484e1aa2a"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="36"
-          y="48"
-          width="253"
-          height="73"/>
+          x="48"
+          y="72"
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-29c3b1d9eba64dc1bd80b7104e7c6ad6.xml#id-29c3b1d9eba64dc1bd80b7104e7c6ad6"/>
@@ -192,7 +192,7 @@
     <bounds
         x="1068"
         y="-36"
-        width="745"
+        width="373"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -200,10 +200,10 @@
         targetConnections="id-3206a2c2fafa451ebe815f4374c7fa8e"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="12"
+          x="48"
           y="48"
-          width="337"
-          height="37"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-8ad7aefed5db42ddba87ee713828911b.xml#id-8ad7aefed5db42ddba87ee713828911b"/>
@@ -214,9 +214,9 @@
         targetConnections="id-8d6b0f153595452f988d82c4c25a358b"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="12"
-          y="108"
-          width="337"
+          x="48"
+          y="120"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -260,8 +260,8 @@
       <bounds
           x="24"
           y="108"
-          width="289"
-          height="61"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_a4eba426-1b15-4d9d-9482-ab09ca555609.xml#a4eba426-1b15-4d9d-9482-ab09ca555609"/>
@@ -274,8 +274,8 @@
       <bounds
           x="24"
           y="36"
-          width="289"
-          height="61"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_6b82e71c-a34e-4db0-912d-0c87477f93c9.xml#6b82e71c-a34e-4db0-912d-0c87477f93c9"/>
@@ -460,10 +460,9 @@
           href="CompositionRelationship_id-9de6993e69894573982a2dc034407240.xml#id-9de6993e69894573982a2dc034407240"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="552"
-        width="1129"
-        height="505"/>
+        y="456"
+        width="1441"
+        height="385"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e57e792d-f621-429e-8a1a-8d258c08abec"
@@ -472,7 +471,7 @@
       <bounds
           x="12"
           y="252"
-          width="229"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -486,7 +485,7 @@
       <bounds
           x="12"
           y="48"
-          width="229"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -498,9 +497,9 @@
         targetConnections="dae34517-e1ec-4d82-93ba-1e61b1c9ea40"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="251"
-          y="48"
-          width="326"
+          x="311"
+          y="56"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -512,9 +511,9 @@
         targetConnections="bc3d28b5-9a24-4fbb-b990-8f2b39ac27f1"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="252"
-          y="176"
-          width="324"
+          x="312"
+          y="184"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -526,9 +525,9 @@
         targetConnections="f6cd4da7-ebbe-421b-8d1d-1ae240bea61a"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="852"
-          y="114"
-          width="229"
+          x="880"
+          y="111"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -540,9 +539,9 @@
         targetConnections="977919b8-b706-4f2a-94d4-dd6e09a4babd"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="852"
-          y="180"
-          width="229"
+          x="880"
+          y="177"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -554,9 +553,9 @@
         targetConnections="a5785559-15a2-4ebc-a2fc-0afdb1a481a7"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="589"
-          y="176"
-          width="228"
+          x="595"
+          y="177"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -570,8 +569,8 @@
       <bounds
           x="12"
           y="114"
-          width="229"
-          height="51"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_cbd7160f-577a-4cc0-88ac-de7471134b13.xml#cbd7160f-577a-4cc0-88ac-de7471134b13"/>
@@ -582,10 +581,10 @@
         targetConnections="id-232fc35fc6874e77adfe42059e1a0189"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="252"
-          y="106"
-          width="325"
-          height="63"/>
+          x="312"
+          y="114"
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_336faa3c-9f8e-4927-87e4-957057c17209.xml#336faa3c-9f8e-4927-87e4-957057c17209"/>
@@ -596,10 +595,10 @@
         targetConnections="id-5194bd3fb8fa47b68deba9951ca31cb8"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="264"
-          y="360"
-          width="241"
-          height="86"/>
+          x="1164"
+          y="48"
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_71758e90-f48b-444e-8356-a8e6e10f3788.xml#71758e90-f48b-444e-8356-a8e6e10f3788"/>
@@ -610,9 +609,9 @@
         targetConnections="id-5d70605ee0424106bfb65c5882d2025b"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="852"
-          y="48"
-          width="205"
+          x="880"
+          y="45"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -626,7 +625,7 @@
       <bounds
           x="588"
           y="48"
-          width="235"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -638,9 +637,9 @@
         targetConnections="id-792c2dbc892f4449b20bb0ba04ff3631"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="12"
-          y="360"
-          width="240"
+          x="1162"
+          y="114"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -652,9 +651,9 @@
         targetConnections="id-171077f580674559b48dcca86f1f968b"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="848"
-          y="242"
-          width="238"
+          x="876"
+          y="239"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -668,7 +667,7 @@
       <bounds
           x="15"
           y="188"
-          width="229"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -680,9 +679,9 @@
         targetConnections="id-94135cc0e71e4294813edfac5c5ded3b"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="595"
-          y="335"
-          width="232"
+          x="593"
+          y="306"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -696,7 +695,7 @@
       <bounds
           x="595"
           y="110"
-          width="231"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -708,10 +707,10 @@
         targetConnections="id-a23481ca4c694e5591941018fe35049c"
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
-          x="11"
-          y="420"
-          width="241"
-          height="61"/>
+          x="1164"
+          y="177"
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_a30dc22e-0679-40df-a40f-fdd973890736.xml#a30dc22e-0679-40df-a40f-fdd973890736"/>
@@ -723,9 +722,9 @@
         font="1|Segoe UI|13.8|1|WINDOWS|1|-23|0|0|0|700|0|0|0|-18|3|2|1|34|Segoe UI">
       <bounds
           x="595"
-          y="242"
-          width="222"
-          height="83"/>
+          y="239"
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-0e7c458641bf45dba2e08db836a21dde.xml#id-0e7c458641bf45dba2e08db836a21dde"/>
@@ -793,9 +792,9 @@
           href="CompositionRelationship_id-2b179594450645138538e0a62d5c73d7.xml#id-2b179594450645138538e0a62d5c73d7"/>
     </sourceConnections>
     <bounds
-        y="168"
+        y="174"
         width="1045"
-        height="361"/>
+        height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a5343e1e-c39b-4358-9fbd-5e22ca2a9bbd"
@@ -804,7 +803,7 @@
       <bounds
           x="12"
           y="108"
-          width="325"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -818,7 +817,7 @@
       <bounds
           x="12"
           y="36"
-          width="325"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -831,7 +830,7 @@
       <bounds
           x="12"
           y="180"
-          width="325"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -845,8 +844,8 @@
       <bounds
           x="360"
           y="180"
-          width="349"
-          height="49"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_45707703-2094-4354-a3c0-04c91cbb832b.xml#45707703-2094-4354-a3c0-04c91cbb832b"/>
@@ -859,8 +858,8 @@
       <bounds
           x="360"
           y="114"
-          width="349"
-          height="49"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_7e004504-14e7-49ab-91fc-1f0d3654a81a.xml#7e004504-14e7-49ab-91fc-1f0d3654a81a"/>
@@ -873,8 +872,8 @@
       <bounds
           x="360"
           y="33"
-          width="349"
-          height="61"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_1e2e7f15-bc17-4b28-b91f-c430734d8103.xml#1e2e7f15-bc17-4b28-b91f-c430734d8103"/>
@@ -887,8 +886,8 @@
       <bounds
           x="732"
           y="36"
-          width="301"
-          height="64"/>
+          width="252"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_e5382331-b978-476b-aae5-057c2524e648.xml#e5382331-b978-476b-aae5-057c2524e648"/>
